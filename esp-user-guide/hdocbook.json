@@ -1,0 +1,29 @@
+{
+  "docId": "esp-user-guide",
+  "title": "Platform User Guide",
+  "description": "Documentation for the user features that are available with the Hornbill Platform",
+  "publicSource": "https://github.com/Hornbill-Docs/esp-user-guide",
+  "productFamily": "hdocs",
+  "version": "0.0.0",
+  "audience": [
+    "public"
+  ],
+  "languages": [
+    "en"
+  ],
+  "navigation": {
+    "items": [
+      {
+        "text": "Introduction",
+        "expand": true,
+        "items": [
+          {
+            "text": "Welcome",
+            "link": "esp-user-guide/index"
+          }
+        ]
+      }
+    ]
+  },
+  "tags": []
+}

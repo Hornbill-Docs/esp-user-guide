@@ -1,0 +1,10 @@
+{
+  "docId": "esp-user-guide",
+  "pdfGeneration": {
+    "enable": true,
+    "exclude_paths": []
+  },
+  "validation": {
+    "exclude_links": []
+  }
+}
