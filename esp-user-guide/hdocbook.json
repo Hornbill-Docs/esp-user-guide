@@ -3,8 +3,8 @@
   "title": "Platform User Guide",
   "description": "Documentation for the user features that are available with the Hornbill Platform",
   "publicSource": "https://github.com/Hornbill-Docs/esp-user-guide",
-  "productFamily": "hdocs",
-  "version": "0.0.0",
+  "productFamily": "esp",
+  "version": "0.0.1",
   "audience": [
     "public"
   ],
