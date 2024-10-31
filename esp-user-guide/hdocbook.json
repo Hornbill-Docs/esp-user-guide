@@ -4,7 +4,7 @@
   "description": "Documentation for the user features that are available with the Hornbill Platform",
   "publicSource": "https://github.com/Hornbill-Docs/esp-user-guide",
   "productFamily": "esp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "audience": [
     "public"
   ],
@@ -13,17 +13,87 @@
   ],
   "navigation": {
     "items": [
-      {
-        "text": "Introduction",
-        "expand": true,
-        "items": [
-          {
-            "text": "Welcome",
-            "link": "esp-user-guide/index"
-          }
-        ]
-      }
-    ]
+    {
+      "text": "Welcome",
+      "link": "esp-user-guide/index"
+    },
+    {
+      "text": "Logging In",
+      "link": "esp-user-guide/index"
+    },
+    {
+      "text": "Availability Status",
+      "link": "esp-user-guide/index"
+    },
+    {
+      "text": "Notifications",
+      "link": "esp-user-guide/index"
+    },
+    {
+      "text": "My Mensions",
+      "link": "esp-user-guide/index"
+    },
+    {
+      "text": "Company Home",
+      "draft": "true",
+      "items": [
+        {
+          "text": "Welcome",
+          "link": "esp-user-guide/index"
+        }
+      ]
+    },
+    {
+      "text": "News Feed",
+      "draft": "true",
+      "items": [
+        {
+          "text": "Welcome",
+          "link": "esp-user-guide/index"
+        }
+      ]
+    },
+    {
+      "text": "My Profile",
+      "draft": "true",
+      "items": [
+        {
+          "text": "Welcome",
+          "link": "esp-user-guide/index"
+        }
+      ]
+    },
+    {
+      "text": "My Activities",
+      "draft": "true",
+      "items": [
+        {
+          "text": "Welcome",
+          "link": "esp-user-guide/index"
+        }
+      ]
+    },
+    {
+      "text": "Co-workers",
+      "draft": "true",
+      "items": [
+        {
+          "text": "Welcome",
+          "link": "esp-user-guide/index"
+        }
+      ]
+    },
+    {
+      "text": "Email",
+      "draft": "true",
+      "items": [
+        {
+          "text": "Welcome",
+          "link": "esp-user-guide/index"
+        }
+      ]
+    }
+  ]
   },
   "tags": []
 }
