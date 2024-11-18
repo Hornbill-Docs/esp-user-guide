@@ -8,4 +8,4 @@ When you are creating or updating Activity Streams (for a post or a comment), yo
 
 Doing this, the person will receive a Hornbill notification that you mentioned them in a post. They'll also be able to see the post which they were mentioned in, even if the post wasn't originally shared with them.
 
-Mentioning people is particularly useful when you're on a huge post and you want to address someone specifically, or when you want to add someone to a post.
+Mentioning people is particularly useful when you're on a post and you want to address someone specifically, or when you want to add someone to a post.
