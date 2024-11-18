@@ -13,3 +13,6 @@ Hornbill is a cloud-based work automation solution with a strong foundation in E
 The platform can be used by several different types of people for different purposes.  The platform profides a secure login to the features that each user has been given the rights to. 
 
 The applications and utilities available for each user will depend on the type of user and the roles that they have been assigned.
+
+* **Core Role**.  If you have been given the Core Role, you will have access to the Company Home and your user profile.
+* **User Role**.  If you have been given the User Role, you will have access to the Company Home, News Feed, Activities, Co-workers, Locations, and your profile.
