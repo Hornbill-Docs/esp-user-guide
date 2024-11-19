@@ -68,8 +68,8 @@
       "draft": "true",
       "items": [
         {
-          "text": "Welcome",
-          "link": "esp-user-guide/index"
+          "text": "Overview",
+          "link": "esp-user-guide/my-activities/overview"
         }
       ]
     },
