@@ -34,6 +34,10 @@
       "link": "esp-user-guide/mentions"
     },
     {
+      "text": "Bookmarks",
+      "link": "esp-user-guide/bookmarks"
+    },
+    {
       "text": "Company Home",
       "draft": "true",
       "items": [
