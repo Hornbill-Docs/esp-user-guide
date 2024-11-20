@@ -1,43 +1,43 @@
 # Bookmarks
-Bookmarks allow each user to save any Hornbill web page, and provide a quick access to them. In addition a full history of all the Hornbill web pages a user visit persists across browsers and sessions and provides contextual information about the bookmark and history pages.
+Bookmarks allow each user to save any Hornbill web page for quick access later. In addition, a full history of all the Hornbill web pages a user visit persists across browsers and sessions and provides contextual information about the bookmark and history pages.
 
-Bookmark Categories
+## Bookmark categories
+In order to bookmark content, you must first create bookmark categories against which to add the bookmarks.
 
-In order to Bookmark content, we must first create Bookmark Categories against which we can add the Bookmarks.
+Think about how you want to group your bookmarks. For example, you could have groups such as *Things to Review*, *Requests to review*, *Documents I need to look at*, or whatever makes sense to you.
 
-Think about how you want to group your Bookmarks, say Things to Review, or Requests to review, Documents i need to look at or whatever makes sense to you.
-Create a Bookmark Category from the right hand side BookMarks collapsable panel, and from the drop down menu choose Add Bookmark Category
+Create a bookmark category from the right-hand side Bookmarks collapsible panel, and from the dropdown menu choose **Add Bookmark Category**.
 
-Give the Bookmark Category a name and select OK, it's as simple as that
-Remember these are persona to you and will not be used by any other Hornbill user.
-Adding Bookmarks
-You can bookmark any Hornbill content, be it a post in a workspace, a document or a request.
+Give the bookmark category a name and click **OK**.
 
-From the Bookmarks side bar, and with the required Bookmark Category selected from the drop down, simple click Bookmark Current Page
-This will add the current page as a Bookmark to that Bookmark Category
-Alternatively
+Remember these are personal to you and will not be used by any other Hornbill user.
 
-From any Post on an activity stream, use the More Actions drop down, select Add Bookmark and then the Bookmark Category you wish to add the Post too
-This will add that page as a Bookmark to the chosen Bookmark Category
-Using and Removing Bookmarks
-Once you have Bookmarked content you can easily access it from the Bookmarks collapsible side bar.
+## Adding bookmarks
+You can bookmark any Hornbill content, be it a post in a workspace, a document, or a request.
 
-Open
-To open a Bookmark link, simple use the drop down menu to navigate to the required Bookmark Category and click on the Open link or the Icon next to the Bookmark you wish to view
+From the Bookmarks side bar, and with the required bookmark category selected from the dropdown, click **Bookmark Current Page**. This  adds the current page as a bookmark to that bookmark category.
 
-Search
-Use the quick search filter to find a specific Bookmark based on it's title or description
+Alternatively, from any post on an activity stream, use the **More Actions** dropdown, select **Add Bookmark** and then the bookmark category you wish to add the post to. This adds that page as a bookmark to the chosen bookmark category.
 
-Edit
-Hover over the Bookmark you wish to edit, and select the Cog Icon to:
+## Using and removing bookmarks
+Once you have bookmarked content, you can easily access it from the Bookmarks collapsible side bar.
 
-Edit the Category under which the Bookmark should be grouped
-Edit the Bookmark title
-Edit the Bookmark Description
-Remove
-Remove the Bookmark by hovering over the bookmark and selecting the Trash Can icon.
+### Open
+To open a bookmark link, use the dropdown menu to navigate to the required bookmark category and click **Open** or the icon next to the bookmark you wish to view.
 
-Bookmark History
-By default every Hornbill page you visit it marked, and you can view the history of all the pages you have visited from the History option in the drop down menu.
+### Search
+Use the quick-search filter to find a specific bookmark based on its title or description.
+
+### Edit
+Hover over the bookmark you wish to edit, and select the cog icon to:
+* Edit the category under which the bookmark should be grouped.
+* Edit the bookmark title.
+* Edit the bookmark description.
+
+### Remove
+Remove the bookmark by hovering over the bookmark and selecting **Delete** (the trash can icon).
+
+## Bookmark History
+By default, every Hornbill page you visit is marked, and you can view the history of all the pages you have visited from the History option in the dropdown menu.
 
 <!-- https://wiki.hornbill.com/index.php?title=Bookmarks -->
