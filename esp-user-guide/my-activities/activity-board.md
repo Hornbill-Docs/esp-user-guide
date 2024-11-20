@@ -1,10 +1,12 @@
 # Activity Board
-My Activity Boards can be created and used to visualize activities split into lists. Activities will dynamically appear or be removed from lists on boards based on the conditions defined against each list on a Board.
+You can create My Activity boards to visualize activities split into lists. Activities will dynamically appear or be removed from lists on boards based on the conditions defined against each list on a board.
 
-## Create a New Board
-From the Drop down menu, choose Create New Board and give the Board a Name, and Description then select Create
+## Create a new board
+From the dropdown menu, click **Create New Board** and give the board a name and description, then click **Create**.
 
-## Adding Lists to a Board
+[CM: Is this content out of date? I can't see a dropdown menu.]
+
+## Adding lists to a board
 Select the My Activities Boards Add List.png button.
 
 Title: Give the new list a title
