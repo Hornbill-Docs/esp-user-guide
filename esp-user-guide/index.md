@@ -43,4 +43,8 @@ The Side Panel, located on the right side, gives you quick access to areas of th
 * Bookmarks
 
 ### Configuration
+![Configuration](/_books/esp-user-guide/images/config-cog.png)
+
 The Cog icon takes you to Hornbill Configuration.  This will default to your user profile, and additional configuration options may be available, based on the roles that you have been given.
+
+<!-- https://wiki.hornbill.com/index.php?title=Navigation -->
