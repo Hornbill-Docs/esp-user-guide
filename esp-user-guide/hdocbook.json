@@ -116,16 +116,6 @@
           "link": "esp-user-guide/index"
         }
       ]
-    },
-    {
-      "text": "Conversations",
-      "draft": "true",
-      "items": [
-        {
-          "text": "Welcome",
-          "link": "esp-user-guide/index"
-        }
-      ]
     }
   ]
   },
