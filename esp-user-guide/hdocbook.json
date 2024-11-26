@@ -126,16 +126,6 @@
           "link": "esp-user-guide/index"
         }
       ]
-    },
-    {
-      "text": "Bookmarks",
-      "draft": "true",
-      "items": [
-        {
-          "text": "Welcome",
-          "link": "esp-user-guide/index"
-        }
-      ]
     }
   ]
   },
