@@ -42,8 +42,8 @@
       "draft": "true",
       "items": [
         {
-          "text": "Welcome",
-          "link": "esp-user-guide/index"
+          "text": "Company Home",
+          "link": "esp-user-guide/company-home"
         }
       ]
     },
