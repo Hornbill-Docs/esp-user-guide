@@ -19,11 +19,11 @@
     },
     {
       "text": "Logging In",
-      "link": "esp-user-guide/index"
+      "link": "esp-user-guide/login"
     },
     {
       "text": "Availability Status",
-      "link": "esp-user-guide/index"
+      "link": "esp-user-guide/availability-status"
     },
     {
       "text": "Notifications",
