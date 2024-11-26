@@ -112,8 +112,8 @@
       "draft": "true",
       "items": [
         {
-          "text": "Welcome",
-          "link": "esp-user-guide/index"
+          "text": "Email",
+          "link": "esp-user-guide/email"
         }
       ]
     }
