@@ -52,8 +52,8 @@
       "draft": "true",
       "items": [
         {
-          "text": "Welcome",
-          "link": "esp-user-guide/index"
+          "text": "News Feed",
+          "link": "esp-user-guide/news-feed"
         }
       ]
     },
@@ -62,8 +62,8 @@
       "draft": "true",
       "items": [
         {
-          "text": "Welcome",
-          "link": "esp-user-guide/index"
+          "text": "My Profile",
+          "link": "esp-user-guide/my-profile"
         }
       ]
     },
@@ -102,7 +102,7 @@
       "draft": "true",
       "items": [
         {
-          "text": "Welcome",
+          "text": "Co-workers",
           "link": "esp-user-guide/co-workers"
         }
       ]
