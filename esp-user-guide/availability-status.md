@@ -2,7 +2,7 @@
 The [User Availability Status](/esp-config/organizational-data/user-availability-states) is an optional feature that allows you to set your current work status. 
 
 ## Enabled
-When enabled, you will see your current status in the [Profile toolbar](/esp-user-guide/index#profile-toolbar). 
+When enabled, you will see your current status in the [Profile toolbar](/esp-user-guide/navigation#profile-toolbar). 
 
 ![Profile Toolbar](/_books/esp-user-guide/images/profile-toolbar.png)
 
