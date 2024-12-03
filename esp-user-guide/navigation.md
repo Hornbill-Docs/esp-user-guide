@@ -25,7 +25,7 @@ The app toolbar will display a list of icons for the different applications that
 
 If you have more apps than will fit in the app toolbar, an arrow will be displayed below the [Configuration cog](/esp-user-guide/navigation#configuration) which when clicked on will show the other apps.
 
-![More Apps](_books/esp-user-guide/images/app-menu-more.png)
+![More Apps](/_books/esp-user-guide/images/app-menu-more.png)
 ## Side panel
 The side panel, located on the right side, gives you quick access to areas of the different applications that you have access to. Some side panel options are context-sensitive and will only display when accessing particular parts of your available apps.
 
