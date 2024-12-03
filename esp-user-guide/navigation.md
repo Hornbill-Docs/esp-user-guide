@@ -21,13 +21,13 @@ To assist with quick navigation around Hornbill, there are several keyboard shor
 ## App toolbar
 ![App Toolbar](/_books/esp-user-guide/images/app-toolbar.png)
 
-The App Menu will display a list of icons for the different applications that you have access to. The order in which your apps are listed can be changed by selecting the Configuration Cog and then under your personal settings, select Navigation Bar.  From there you can drag and drop the applications into your desired order.
+The app toolbar will display a list of icons for the different applications that you have access to. The order in which your apps are listed can be changed by selecting the Configuration Cog and then under your personal settings, select Navigation Bar.  From there you can drag and drop the applications into your desired order.
 
-If you have more apps than will fit in the App Toolbar, an arrow will be displayed below the [Configuration cog](/esp-user-guide/navigation#configuration) which when clicked on will show the other apps.
+If you have more apps than will fit in the app toolbar, an arrow will be displayed below the [Configuration cog](/esp-user-guide/navigation#configuration) which when clicked on will show the other apps.
 
 ![More Apps](_books/esp-user-guide/images/app-menu-more.png)
 ## Side panel
-The Side Panel, located on the right side, gives you quick access to areas of the different applications that you have access to. Some side panel options are context-sensitive and will only display when accessing particular parts of your available apps.
+The side panel, located on the right side, gives you quick access to areas of the different applications that you have access to. Some side panel options are context-sensitive and will only display when accessing particular parts of your available apps.
 
 ![Side Panel](/_books/esp-user-guide/images/side-panel.png)
 * Activities
