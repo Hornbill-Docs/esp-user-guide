@@ -1,32 +1,25 @@
 # My Company
-The Employee Portal provides access to the Employees of your organization. All users that have been added to Hornbill will have access to the Employee Portal.
+The Employee Portal provides access to the employees of your organization. All users who have been added to Hornbill will have access to the Employee Portal.
 
 The Employee Portal is a highly configurable environment where you can add widgets and enable features for your employees to be able to access their services, communicate with the Service Desk, submit and view requests, chat with support staff, and access shared documents.
 
 The Employee Portal can be accessed through the main Hornbill browser app by both Basic Users and Application Users. Users can also access the Employee Portal using the Hornbill Mobile Catalog app.
 
-Related Articles
-Customize Employee Portal
-Employee Portal Page Configuration
-Service Domains
-Mobile web app and SSO Profiles
-Deploying and SSO Setup for Mobile web app with MS InTune
-Web Browser
-Accessing
-You can access Hornbill using any web browser. Navigate to live.hornbill.com/<Your_Instance>. If you don't know your instance name, you may need to contact your IT support team. Users that are not subscribed to any Hornbill Apps (Basic Users) will be taken directly to the Employee Portal when they login. Users that are subscribed to one or more applications will access the Employee Portal through the Company Home option under the Home Icon in the left hand menu bar.
+## Web Browser
+### Accessing
+You can access Hornbill using any web browser. Navigate to live.hornbill.com/<Your_Instance>. If you don't know your instance name, you may need to contact your IT support team. Users that are not subscribed to any Hornbill Apps (Basic Users) will be taken directly to the Employee Portal when they log in. Users that are subscribed to one or more applications will access the Employee Portal through the Company Home option under the Home Icon in the left-hand menu bar.
 
-Information
+::: tip
 If you are a full collaboration or app user you have an option to set the Company Home as your landing page. While you are on the Company Page, you can select the option under your Profile Menu titled, Make this my default View. This will become your starting point every time you open Hornbill. When clicked on, the Hornbill Logo in the top banner will also return you to your default view.
-Navigation
-Header
-To navigate between pages, the top section of the page contains links to other business areas that have been defined. Each of these areas can have it's own page or may link to a dedicated service. Within the header, there is also a breadcrumb that gives you a link back to previous pages and to the company home page.
-Body
-The main body of each page will consist of one or more widgets that have been added and configured by a page manager. These widgets provide information, links, and the ability to interact with one or more Service Desks.
-Footer
-At the bottom of the page, an optional section may be displayed which provides some details about your company, including contact information and social media links.
+:::
+
+### Navigation
+**Header.** To navigate between pages, the top section of the page contains links to other business areas that have been defined. Each of these areas can have it's own page or may link to a dedicated service. Within the header, there is also a breadcrumb that gives you a link back to previous pages and to the company home page.
+**Body.** The main body of each page will consist of one or more widgets that have been added and configured by a page manager. These widgets provide information, links, and the ability to interact with one or more Service Desks.
+**Footer.** At the bottom of the page, an optional section may be displayed which provides some details about your company, including contact information and social media links.
 
 
-Mobile Version
+## Mobile Version
 Hornbill has provided a Progressive Web App (PWA) to give users a fast and UI rich solution to accessing their company's home page which can be packed full of valuable information and Service Catalog access.
 
 Accessing
