@@ -21,20 +21,23 @@ If you are a full collaboration or app user you have an option to set the Compan
 
 ## Mobile Version
 Hornbill has provided a Progressive Web App (PWA) to give users a fast and UI rich solution to accessing their company's home page which can be packed full of valuable information and Service Catalog access.
+![Mobile](/_books/esp-user-guide/images/mobile-home.png)
 
-Accessing
+### Accessing
 The mobile app can be accessed using your mobile's browser and navigating to mcatalog.hornbill.com/<Your_Instance>/. If you don't know your instance name, you may need to contact your IT support team. A login button will display when you first connect. In most cases, this will be your network login for your company.
 
-Home Screen
+### Home Screen
 Once you are logged in, you can add the Hornbill Employee Portal to your mobile device's Home Screen. If you are using an Android device you may get a prompt to Add the Hornbill App to your Home Screen. If you select to do this, an application icon will be added to your phone which will provide quick access back to Hornbill and also open the app in a full screen. On an iOS device, you can select from the Safari Options when on the Hornbill Employee Portal site to add the site to your Home Screen.
 
-Navigation
-Ephome.png
+### Navigation
 In the top right of the Mobile app, the menu button lets you view and navigate to other available pages and options.
 
-Domain Pages
+**Domain Pages**
+
 A list of the available pages that you can navigate to are listed here. These pages will normally represent the main business areas within your company. A link back to the main page is provided in the header.
-Settings
+
+**Settings**
+
 Your Profile Information
 See your logged in profile along with picture and job title. Not you? Use the logout option.
 Versions
@@ -43,5 +46,7 @@ Clear Cache
 This will clear any locally cached files. Clearing the cache may correct some issue that are a result of out of date cached files.
 Logout
 This will log you out of your session.
-About
-Your company's contact information
+
+**About**
+
+Your company's contact information.
