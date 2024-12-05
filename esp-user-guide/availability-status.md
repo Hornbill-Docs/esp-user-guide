@@ -11,13 +11,13 @@ Click on your current status to see a list of statuses that you can select from.
 ![Availability Statuses](/_books/esp-user-guide/images/availability-selection.png)
 
 ::: tip
-This is a configurable list, so the items displayed might be different than shown above.
+Because your Hornbill administrator can configure this list, the items displayed might be different than shown above.
 :::
 
-Each status is color coded.  Different statuses may share the same color and will fall under the same category as described here.
+Each status is color-coded.  Different statuses may share the same color and will fall under the same category as described here.
 * Green - I am available.
 * Amber - I am at work and can be disturbed if important.
-* Red - Do Not Disturb.
+* Red - Do not disturb.
 * Blue - I am on call.
 * Grey - I am not at work.
 
@@ -27,6 +27,6 @@ At the bottom of the list of statuses is a `More` option.  This allows you to ex
 ![User Availability Status More](/_books/esp-user-guide/images/user-availability-more.png)
 
 ## Status Enabled with Time Recording
-When Time Recording is enabled, the time of each status change will be captured and visible to you and other users.
+When Time Recording is enabled, the time of each status change is captured and visible to you and other users.
 
 ![Status with Time](/_books/esp-user-guide/images/status-with-time.png)

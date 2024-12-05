@@ -16,18 +16,29 @@ Once users have logged into Hornbill, they gain access to a variety of apps and 
 * Profile Menu
 
 ### Keyboard Shortcuts
-To assist with quick navigation around Hornbill, there are several keyboard shortcuts that can be used.  The list of keyboard shortcuts can be accessed from the Profile Menu or by using the keyboard shortcut `Alt+0`.
+To assist with quick navigation around Hornbill, there are several keyboard shortcuts that can be used.
+
+**To access the list of keyboard shortcuts:**
+- (On Windows) Use the keyboard shortcut `ALT+0`.
+- (On Mac) Use the keyboard shortcut `CTRL+0`.
 
 ## App toolbar
 ![App Toolbar](/_books/esp-user-guide/images/app-toolbar.png)
 
-The app toolbar will display a list of icons for the different applications that you have access to. The order in which your apps are listed can be changed by selecting the Configuration Cog and then under your personal settings, select Navigation Bar.  From there you can drag and drop the applications into your desired order.
+The app toolbar displays a list of icons for the different applications that you have access to.
 
-If you have more apps than will fit in the app toolbar, an arrow will be displayed below the [Configuration cog](/esp-user-guide/navigation#configuration) which when clicked on will show the other apps.
+**To change the order in which your apps are listed:** 
+1. Click the Configuration cog to go to Configuration.
+1. Navigate to **My Personal Settings** > **Navigation Bar**.
+1. Drag and drop the applications into your desired order.
+
+::: important
+When you have more apps than will fit in the app toolbar, an arrow is displayed below the [Configuration cog](/esp-user-guide/navigation#configuration). Click the arrow to show the other apps. (Changing the order in which your apps are listed is particularly helpful when you have this arrow.)
+:::
 
 ![More Apps](/_books/esp-user-guide/images/app-menu-more.png)
 ## Side panel
-The side panel, located on the right side, gives you quick access to areas of the different applications that you have access to. Some side panel options are context-sensitive and will only display when accessing particular parts of your available apps.
+The side panel, located on the right side, gives you quick access to areas of your various applications. Some side-panel options are context-sensitive and only display when accessing particular parts of your available apps.
 
 ![Side Panel](/_books/esp-user-guide/images/side-panel.png)
 * Activities
