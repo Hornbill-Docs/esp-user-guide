@@ -19,7 +19,7 @@ Each status is color-coded.  Different statuses may share the same color and wil
 * Amber - I am at work and can be disturbed if important.
 * Red - Do not disturb.
 * Blue - I am on call.
-* Grey - I am not at work.
+* Gray - I am not at work.
 
 ### More
 At the bottom of the list of statuses is a `More` option.  This allows you to expand on your status and provide some context.  For example, if you are Out of Office, you could say when you are expected back.
