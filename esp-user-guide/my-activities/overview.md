@@ -1,5 +1,5 @@
 # My Activities
-Activities are your to-do list. These can be created manually from your activities views, from entity views in installed line-of-business applications, and created automatically by workflow in a business process.
+Activities are your to-do list. These can be created manually from your activities views, from entity views in installed line-of-business applications and created automatically by the workflow in a business process.
 
 Activities can be viewed and completed in many different locations.
 
