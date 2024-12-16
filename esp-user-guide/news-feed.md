@@ -1,11 +1,11 @@
 # News Feed
-The News Feed is a collation of all the posts and comments made in activity streams that you are following. These activity streams can include Workspaces, Users' Buzz, the timelines on incidents, problems, and changes in Service Manager, documents in Document Manager and Configuration Items in Configuration Manager.
+The News Feed is a collation of all the posts and comments made in activity streams that you are following. These activity streams can include Workspaces, users' Buzz, the timelines on incidents, problems, and changes in Service Manager, documents in Document Manager, and Configuration Items in Configuration Management.
 
-The News Feed provides real time visibility of new posts and comments, making sure you have instant visibility of the updates made to the things that are most important to you.
+The News Feed provides real-time visibility of new posts and comments, giving you an instant view of the updates made to the things that are most important to you.
 
 The News Feed can be accessed from the main Application Menu located in the top left of the browser window, and then by selecting the News Feed menu item displayed under the Home icon.
 
-The News Feed and it's content are also accessible via the Hornbill Mobile Native apps for iOS and Android.
+The News Feed and its content are also accessible via the Hornbill Mobile native apps for iOS and Android.
 
 ## Features
 
