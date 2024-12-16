@@ -1,13 +1,19 @@
-# My Company
-Your organization's employees can go to the Employee Portal --- also known as Company Home --- to access their services, communicate with the Service Desk, submit and view requests, chat with support staff, and access shared documents. All users who have been added to Hornbill can access the portal.
+# Company Home
+You and all your organization's employees can visit the Employee Portal --- also known as Company Home, or <*Your Company*> Home. Here, you can access your services, communicate with the Service Desk, submit and view requests, chat with support staff, and access shared documents. All employees who have been added to Hornbill can access the portal.
 
-The Employee Portal is highly configurable. You can add widgets and enable features for your organization's users.
+The Employee Portal is highly configurable. Your administrator can [add widgets and enable features for your organization's users](/esp-config/customize/employee-portal/employee-portal-configuration).
 
 Basic and full users can access the portal through [the main Hornbill browser app](/esp-user-guide/company-home#web-browser), as well as by using [the Hornbill mobile catalog app](/esp-user-guide/company-home#mobile-version).
 
-## Web browser
+## Topics covered
+* [Browser version](/esp-user-guide/company-home#browser-version)
+* [Mobile version](/esp-user-guide/company-home#mobile-version)
+
+## Browser version
 ### Accessing
-You can access Hornbill using any web browser. Navigate to live.hornbill.com/<Your_Instance>. If you don't know your instance name, you may need to contact your IT support team. Users that are not subscribed to any Hornbill Apps (Basic Users) will be taken directly to the Employee Portal when they log in. Users that are subscribed to one or more applications will access the Employee Portal through the Company Home option under the Home Icon in the left-hand menu bar.
+You can access Hornbill using any web browser. Navigate to `live.hornbill.com/<Your_Instance>`. If you don't know your instance name, you may need to contact your IT support team. 
+
+Users who are not subscribed to any Hornbill applications (basic users) are taken directly to the Employee Portal when they log in. Users who are subscribed to one or more apps can access the Employee Portal through the Company Home option under the Home Icon in the left-hand menu bar.
 
 ::: tip
 If you are a full user, you can set the Company Home as your default starting point (i.e. your landing page). While on the Company Home page, click your profile photo, then click **Make this my default view**. With a default view like this selected, now when you click on the Hornbill logo in the top banner, you are also returned here.
@@ -27,10 +33,15 @@ Hornbill has provided a progressive web app (PWA) to give users a fast and UI-ri
 ![Mobile](/_books/esp-user-guide/images/mobile-home.png)
 
 ### Accessing
-Users can access the mobile app using a mobile phone's browser. Navigate to `mcatalog.hornbill.com/<Your_Instance>/`. If you don't know your instance name, contact your IT support team. A login button displays when you first connect. In most cases, this will be your network login for your company.
+You can access the mobile app using your mobile phone's browser. Navigate to `mcatalog.hornbill.com/<Your_Instance>/`. If you don't know your instance name, contact your IT support team.
+
+A login button displays when you first connect. In most cases, you will need to use your login credentials for your company's network.
 
 ### Home screen
-Once you are logged in, you can add the Employee Portal to your mobile device's home screen. If you are using an Android device, you may get a prompt (*Add the Hornbill App to your Home Screen*). If you do this, an application icon will be added to your phone that provides quick access back to Hornbill and also opens the app in a full screen. On an iOS device, you can select from the Safari Options when on the Employee Portal page to add the site to your home screen.
+Once you are logged in, you can add the Employee Portal to your mobile device's home screen.
+
+* **Android.** On an Android device, you may get a prompt (*Add the Hornbill App to your Home Screen*). If you do this, an application icon will be added to your phone; this provides quick access back to Hornbill and also opens the app in a full screen.
+* **iOS.** On an iOS device, you can select from the Safari options when on the Employee Portal page to add the site to your home screen.
 
 ### Navigation
 In the top right of the mobile app, use the menu button to view and navigate to other available pages and options.

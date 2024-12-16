@@ -43,13 +43,7 @@
     },
     {
       "text": "Company Home",
-      "draft": "true",
-      "items": [
-        {
-          "text": "Company Home",
-          "link": "esp-user-guide/company-home"
-        }
-      ]
+      "link": "esp-user-guide/company-home"
     },
     {
       "text": "News Feed",
