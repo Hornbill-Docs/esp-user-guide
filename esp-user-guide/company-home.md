@@ -3,11 +3,12 @@ You and all your organization's employees can visit the Employee Portal --- also
 
 The Employee Portal is highly configurable. Your administrator can [add widgets and enable features for your organization's users](/esp-config/customize/employee-portal/employee-portal-configuration).
 
-Basic and full users can access the portal through [the main Hornbill browser app](/esp-user-guide/company-home#web-browser), as well as by using [the Hornbill mobile catalog app](/esp-user-guide/company-home#mobile-version).
+Basic and full users can access the portal through [the main Hornbill browser app](/esp-user-guide/company-home#web-browser), as well as through [the Hornbill mobile catalog app](/esp-user-guide/company-home#mobile-version).
 
 ## Topics covered
 * [Browser version](/esp-user-guide/company-home#browser-version)
 * [Mobile version](/esp-user-guide/company-home#mobile-version)
+* [Knowledge content in the portal](/esp-user-guide/company-home#knowledge-content-in-the-portal)
 
 ## Browser version
 ### Accessing
@@ -56,3 +57,16 @@ In the top right of the mobile app, use the menu button to view and navigate to 
 * **Log Out.** This logs you out of your session.
 
 **About.** Your company's contact information.
+
+## Knowledge content in the portal
+
+When a user searches the portal or completes a Summary field in a new request, Knowledge content is dynamically presented as the user types. This content can be in the form of FAQs, Known Issues, Catalog Items, and Requests.
+
+Possible Knowledge matches are continually filtered based on the inputs to different Intelligent Capture forms in the IC flows. Users can view and interact with potential Knowledge content in Intelligent Capture.
+
+This dynamic presentation of Knowledge content is set to ON by default.
+
+**To disable the presentation of Knowledge content in the Employee Portal:**
+1. Navigate to **Configuration > Platform Configuration > Core Settings**.
+1. Find the setting called `guest.anonymous.employeePortal.core.disable-knowledge-search-in-pro-cap`.
+1. Click the switch to toggle the setting to ON.
