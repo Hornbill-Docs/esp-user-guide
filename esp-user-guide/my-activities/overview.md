@@ -1,5 +1,5 @@
 # My Activities
-Activities are your to-do list. These can be created manually from your activities views, from entity views in installed line-of-business applications and created automatically by the workflow in a business process.
+Activities are your to-do list. Activities can be created manually from your activities views and from entity views in installed line-of-business applications; they can also be created automatically by the workflow in a business process.
 
 Activities can be viewed and completed in many different locations.
 
@@ -19,5 +19,5 @@ Activities can be viewed in a traditional list, board, or calendar view.
 * **Status Filter**. Select from the available statuses.
 
 ## Activity Side Bar
-Get quick access to all of your activities using the right-hand Activity side bar.
+Get quick access to all of your activities using the right-hand Activity side bar. Click the **My Activities** icon, which is a circled checkmark.
 
