@@ -1,6 +1,5 @@
-# Email
+# Overview
 The Email View gives you access to the Shared Mailboxes that you have been given access to. Shared Mailboxes are created to allow a group of users to share a single mailbox for both outgoing and incoming email, all using a common email address. Read, Send, and organize emails.
-
 
 ## Folders
 Each Shared Mailbox contains 5 folders with an option to add additional folders to help organize your emails.

@@ -3,7 +3,7 @@ You and all your organization's employees can visit the Employee Portal --- also
 
 The Employee Portal is highly configurable. Your administrator can [add widgets and enable features for your organization's users](/esp-config/customize/employee-portal/employee-portal-configuration).
 
-Basic and full users can access the portal through [the main Hornbill browser app](/esp-user-guide/company-home#web-browser), as well as through [the Hornbill mobile catalog app](/esp-user-guide/company-home#mobile-version).
+Basic and full users can access the portal through [the main Hornbill browser app](/esp-user-guide/company-home#browser-version), as well as through [the Hornbill mobile catalog app](/esp-user-guide/company-home#mobile-version).
 
 ## Topics covered
 * [Browser version](/esp-user-guide/company-home#browser-version)

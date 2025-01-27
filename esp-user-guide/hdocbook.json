@@ -110,8 +110,16 @@
       "draft": "true",
       "items": [
         {
-          "text": "Email",
-          "link": "esp-user-guide/email"
+          "text": "Overview",
+          "link": "esp-user-guide/email-overview"
+        },
+        {
+          "text": "Email List",
+          "link": "esp-user-guide/email-list"
+        },
+        {
+          "text": "Email Composer",
+          "link": "esp-user-guide/email-composer"
         }
       ]
     }
