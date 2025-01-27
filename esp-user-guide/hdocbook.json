@@ -47,13 +47,7 @@
     },
     {
       "text": "News Feed",
-      "draft": "true",
-      "items": [
-        {
-          "text": "News Feed",
-          "link": "esp-user-guide/news-feed"
-        }
-      ]
+      "link": "esp-user-guide/news-feed"
     },
     {
       "text": "My Profile",
@@ -67,7 +61,6 @@
     },
     {
       "text": "My Activities",
-      "draft": "true",
       "items": [
         {
           "text": "Overview",
@@ -96,18 +89,11 @@
       ]
     },
     {
-      "text": "Co-workers",
-      "draft": "true",
-      "items": [
-        {
           "text": "Co-workers",
           "link": "esp-user-guide/co-workers"
-        }
-      ]
     },
     {
       "text": "Email",
-      "draft": "true",
       "items": [
         {
           "text": "Overview",
