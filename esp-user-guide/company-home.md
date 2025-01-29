@@ -12,7 +12,7 @@ Basic and full users can access the portal through [the main Hornbill browser ap
 
 ## Browser version
 ### Accessing
-You can access Hornbill using any web browser. Navigate to `live.hornbill.com/<Your_Instance>`. If you don't know your instance name, you may need to contact your IT support team. 
+You can access Hornbill using any web browser. Navigate to `live.hornbill.com/<Your_Instance>`. If you don't know your instance name, contact your IT support team. 
 
 Users who are not subscribed to any Hornbill applications (basic users) are taken directly to the Employee Portal when they log in. Users who are subscribed to one or more apps can access the Employee Portal through the Company Home option under the Home Icon in the left-hand menu bar.
 

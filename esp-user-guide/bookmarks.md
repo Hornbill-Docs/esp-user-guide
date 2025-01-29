@@ -1,5 +1,5 @@
 # Bookmarks
-Bookmarks allow each user to save any Hornbill web page for quick access later. In addition, a full history of all the Hornbill web pages a user visit persists across browsers and sessions and provides contextual information about the bookmark and history pages.
+Bookmarks allow each user to save any Hornbill web page for quick access later. In addition, a full history of all the Hornbill web pages a user has visited persists across browsers and sessions and provides contextual information about the bookmark and history pages.
 
 ## Bookmark categories
 In order to bookmark content, you must first create bookmark categories against which to add the bookmarks.
@@ -14,7 +14,7 @@ Think about how you want to group your bookmarks. For example, you could have gr
 Remember these categories are personal to you; they will not be used by any other Hornbill user.
 
 ## Adding bookmarks
-You can bookmark any Hornbill content, be it a post in a workspace, a document, or a request.
+Once you have at least one bookmark category, you can bookmark any Hornbill content, be it a post in a workspace, a document, or a request.
 
 **To bookmark content:**
 1. From the Bookmarks collapsible panel, make sure the required bookmark category is selected from the dropdown.
