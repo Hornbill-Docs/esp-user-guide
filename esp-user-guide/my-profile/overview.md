@@ -2,22 +2,23 @@
 Your profile is your identity in Hornbill. The information provided on your profile can help others know more about you.
 
 ## How to access
-You can update your profile at any time by selecting the ‘My Profile’ option on the Collaboration icon. Your profile can also be accessed from the user menu on your profile image in the top right.
+To access your profile, in the [Profile toolbar](/esp-user-guide/navigation#profile-toolbar), click your profile image and then click **My Profile**.
 
-## The About information is broken down into five sections:
+Another way to access your profile is by clicking the **Configuration** cog in the bottom left of your screen.
 
-Basic Details
-Add an email address to allow other co-workers to send you an email from the Hornbill email composer when viewing your profile, and other views in Hornbill
-Job Details
-View your memberships to organizational groups
-Contact Details
-Add phone number and Social media details to allow other co-workers to contact you through browser plugins like Skype and Facetime
-Interests & Expertise
-Personal Details
-Edit the details held in each section by using the Notepad icon on each section header.
+## Your *About* information
+This information is broken down into the following sections:
 
-Not all available fields maybe displayed if they are empty, so going into edit mode may show more options. The option to not display empty fields is configurable by an administrator who has the Form Designer role.
+* **Basic Details.** Add an email address to allow co-workers to send you an email from the Hornbill email composer when viewing your profile, and from other views in Hornbill.
+* **Job Details** Your memberships to organizational groups.
+* **Contact Details.** Add phone numbers and social media details to allow  co-workers to contact you through browser plugins like Skype and FaceTime.
+* **Interests & Expertise.** Add qualifications, training, interests, and expertise.
+* **Personal Details.**
 
+To edit the details held in each section, click the Notepad icon on each section header.
+
+If some fields are empty, they may not be displayed. For this reason, going into edit mode may show you more options. The option to not display empty fields is configurable by an administrator who has the Form Designer role.
+<!-- TO DO: Check whether we need to remove Connections and Achievements sections (below).
 ## Connections
 Connection Types
 My Profile Connections.png
@@ -52,4 +53,4 @@ Shows the following information against each Achievement:
 Achievement name
 When the Achievement was awarded
 Who Awarded the achievement
-Any comments to support the achievement award
+Any comments to support the achievement award -->
