@@ -18,15 +18,15 @@
       "link": "esp-user-guide/index"
     },
     {
-      "text": "Logging In",
+      "text": "Logging in",
       "link": "esp-user-guide/login"
     },
     {
-      "text": "Finding Your Way Around",
+      "text": "Finding your way around",
       "link": "esp-user-guide/navigation"
     },
     {
-      "text": "Availability Status",
+      "text": "Availability status",
       "link": "esp-user-guide/availability-status"
     },
     {
@@ -78,23 +78,23 @@
           "link": "esp-user-guide/my-activities/overview"
         },
         {
-          "text": "Filters and Views",
+          "text": "Filters and views",
           "link": "esp-user-guide/my-activities/filters-and-views"
         },
         {
-          "text": "Activity List",
+          "text": "Activity list",
           "link": "esp-user-guide/my-activities/activity-list"
         },
         {
-          "text": "Activity Board",
+          "text": "Activity board",
           "link": "esp-user-guide/my-activities/activity-board"
         },
         {
-          "text": "Activity Calendar",
+          "text": "Activity calendar",
           "link": "esp-user-guide/my-activities/activity-calendar"
         },
         {
-          "text": "Activity Side Bar",
+          "text": "Activity sidebar",
           "link": "esp-user-guide/my-activities/side-bar"
         }
       ]
@@ -111,7 +111,7 @@
           "link": "esp-user-guide/email-overview"
         },
         {
-          "text": "Email List",
+          "text": "Email list",
           "link": "esp-user-guide/email-list"
         },
         {

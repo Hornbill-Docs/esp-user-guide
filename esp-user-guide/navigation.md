@@ -1,22 +1,27 @@
-# Finding Your Way Around
+# Finding your way around
 ## Navigating Hornbill
 Once users have logged into Hornbill, they gain access to a variety of apps and information based on their rights and roles.
 ![Hornbill Client](/_books/esp-user-guide/images/main-screen.png)
 
 ## Hornbill toolbar
 ![Hornbill Menu](/_books/esp-user-guide/images/hornbill-toolbar.png)
-* Hornbill Apps and Links
-* Home View
+
+The icons in the Hornbill toolbar link to the following:
+* Hornbill apps and links
+* Home view
 * Search
+
 ## Profile toolbar
 ![Profile Toolbar](/_books/esp-user-guide/images/profile-toolbar.png)
+
+The icons in the Profile toolbar link to the following:
 * Availability
 * Notifications
 * Mentions
-* Profile Menu
+* Profile menu
 
-### Keyboard Shortcuts
-To assist with quick navigation around Hornbill, there are several keyboard shortcuts that can be used.
+### Keyboard shortcuts
+To assist with quick navigation around Hornbill, there are several keyboard shortcuts that you can use.
 
 **To access the list of keyboard shortcuts:**
 - (On Windows) Use the keyboard shortcut `ALT+0`.

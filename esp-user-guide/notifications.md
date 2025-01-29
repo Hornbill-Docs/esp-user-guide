@@ -7,7 +7,7 @@ In the Profile toolbar, a bell icon shows the count of your current unread notif
 ![Notification Bell](/_books/esp-user-guide/images/profile-toolbar.png)
 
 ## Notification sidebar
-After clicking on the notification bell in the profile toolbar, a side panel is displayed that lists all of your current notifications.
+After clicking on the Notification bell in the profile toolbar, a side panel is displayed that lists all of your current notifications.
 
 ### Viewing notifications
 Each notification includes the person that initiated the notification, a link to the related entity, and the main notification text.

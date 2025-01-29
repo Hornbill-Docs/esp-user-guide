@@ -2,7 +2,7 @@
 layout: article-toc
 ---
 # Welcome 
-This guide will take you through the features that come as part of the Hornbill Platform.  These features are shared between the available applications and the users that use them.
+This guide will take you through the features that come as part of the Hornbill Platform.  These features are shared between the available Hornbill applications and the users of those applications.
 
 Access to the Platform features will depend on rights, roles, and the user type of the logged-in user.
 
