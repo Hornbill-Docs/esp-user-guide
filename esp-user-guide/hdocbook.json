@@ -57,17 +57,23 @@
           "link": "esp-user-guide/my-profile/overview"
         },
         {
-          "text": "My Information",
-          "link": "esp-user-guide/my-profile/my-information"
-        },
-        {
-          "text": "Security",
-          "link": "esp-user-guide/my-profile/security"
-        },
-        {
-          "text": "My Preferences",
-          "link": "esp-user-guide/my-profile/my-preferences"
+          "text": "My Personal Settings",
+          "items":[
+          {
+           "text": "My Information",
+           "link": "esp-user-guide/my-profile/my-information"
+          },
+          {
+            "text": "Security",
+            "link": "esp-user-guide/my-profile/security"
+          },
+          {
+            "text": "My Preferences",
+           "link": "esp-user-guide/my-profile/my-preferences"
+          }  
+         ]
         }
+        
       ]
     },
     {
