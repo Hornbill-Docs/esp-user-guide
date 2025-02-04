@@ -1,9 +1,19 @@
 # Finding your way around
-## Navigating Hornbill
-Once users have logged into Hornbill, they gain access to a variety of apps and information based on their rights and roles.
+
+Once users have logged into Hornbill, they gain access to a variety of applications and information based on their rights and roles.
+
 ![Hornbill Client](/_books/esp-user-guide/images/main-screen.png)
 
-## Hornbill toolbar
+## Navigating Hornbill
+To get you where you need to be, take note of these important parts of the Hornbill platform:
+
+* [Hornbill toolbar](/esp-user-guide/navigation#hornbill-toolbar), at the top of your screen.
+* [Profile toolbar](/esp-user-guide/navigation#profile-toolbar), including access to a list of handy keyboard shortcuts.
+* [App toolbar](/esp-user-guide/navigation#app-toolbar), the vertical toolbar below the Hornbill toolbar.
+* [Side panel](/esp-user-guide/navigation#side-panel), the vertical toolbar to the right of your screen.
+* [Configuration](/esp-user-guide/navigation#configuration), in the bottom left of your screen.
+
+### Hornbill toolbar
 ![Hornbill Menu](/_books/esp-user-guide/images/hornbill-toolbar.png)
 
 The icons in the Hornbill toolbar link to the following:
@@ -11,7 +21,7 @@ The icons in the Hornbill toolbar link to the following:
 * Home view
 * Search
 
-## Profile toolbar
+### Profile toolbar
 ![Profile Toolbar](/_books/esp-user-guide/images/profile-toolbar.png)
 
 The icons in the Profile toolbar link to the following:
@@ -20,14 +30,14 @@ The icons in the Profile toolbar link to the following:
 * Mentions
 * Profile menu
 
-### Keyboard shortcuts
-To assist with quick navigation around Hornbill, there are several keyboard shortcuts that you can use.
+#### Keyboard shortcuts
+To assist with quick navigation around Hornbill, there are several keyboard shortcuts you can use.
 
 **To access the list of keyboard shortcuts:**
 - (On Windows) Use the keyboard shortcut `ALT+0`.
 - (On Mac) Use the keyboard shortcut `CTRL+0`.
 
-## App toolbar
+### App toolbar
 ![App Toolbar](/_books/esp-user-guide/images/app-toolbar.png)
 
 The app toolbar displays a list of icons for the different applications that you have access to.
@@ -42,14 +52,14 @@ When you have more apps than will fit in the app toolbar, an arrow is displayed 
 :::
 
 ![More Apps](/_books/esp-user-guide/images/app-menu-more.png)
-## Side panel
+### Side panel
 The side panel, located on the right side, gives you quick access to areas of your various applications. Some side-panel options are context-sensitive and only display when accessing particular parts of your available apps.
 
 ![Side Panel](/_books/esp-user-guide/images/side-panel.png)
 * Activities
 * Bookmarks
 
-## Configuration
+### Configuration
 At the bottom of the left-hand vertical menu bar is a Configuration option.
 
 ![Configuration](/_books/esp-user-guide/images/config-cog.png)
