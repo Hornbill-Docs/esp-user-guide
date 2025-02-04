@@ -5,7 +5,7 @@ The My Information section contains all the detailed information about you, pers
 The About section is broken down into five sections:
 
 * **Basic Details**. Add an email address to allow other co-workers to send you an email from the Hornbill email composer when viewing your profile, and other views in Hornbill
-* **Job Details**. View your memberships to organisational groups
+* **Job Details**. View your memberships to organizational groups
 * **Contact Details**.Add phone number and Social media details to allow other co-workers to contact you through browser plugins like Skype and Facetime
 * **Interests & Expertise**. 
 * **Personal Details**.
@@ -21,7 +21,7 @@ It is possible to manage who you share personal information with. When adding or
 * **Private**. Only you can see this.
 
 ## Automatic Updates
-When updating your contact information, remember this information maybe being updated automatically from a user import utility and from your organisations directory services, so check with your administrator if you are not sure. If automatic updates are set-up, this will overwrite any manually updated values on your About information if they are different on your organisations master directory records.
+When updating your contact information, remember this information maybe being updated automatically from a user import utility and from your oranizations directory services, so check with your administrator if you are not sure. If automatic updates are set-up, this will overwrite any manually updated values on your About information if they are different on your organizations master directory records.
 
 ## System Configuration Updates
 Administrators can update user's details from the Configuration Console.
