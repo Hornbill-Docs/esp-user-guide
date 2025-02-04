@@ -6,18 +6,17 @@ Activities can be viewed and completed in many different locations.
 ## Activities
 Activities can be viewed in a traditional list, board, or calendar view.
 
-* **List View**. View your activities in a traditional view, see progress, choose displayed columns and sort the order of activities by the different columns.
+* **List view**. View your activities in a traditional view, see progress, choose displayed columns and sort the order of activities by the different columns.
 
-* **Board View**. View your activities on boards. Create and configure multiple board views, setting custom lists and criteria that dynamically show activities matching the list criteria.
+* **Board view**. View your activities on boards. Create and configure multiple board views, setting custom lists and criteria that dynamically show activities matching the list criteria.
 
-* **Calendar View**. View your activities in a calendar view, with options to view daily, weekly, or monthly.
+* **Calendar view**. View your activities in a calendar view, with options to view daily, weekly, or monthly.
 
-## Activities Filters
+## Activities filters
 
 * **Views**. Create custom views to manage which activities will be displayed on the List, Board, or Calendar views.
 
-* **Status Filter**. Select from the available statuses.
+* **Status filter**. Select from the available statuses.
 
-## Activity Side Bar
-Get quick access to all of your activities using the right-hand Activity side bar. Click the **My Activities** icon, which is a circled checkmark.
-
+## My Activities sidebar
+Get quick access to all of your activities by clicking **My Activities** (the circled checkmark) in the [side panel](/esp-user-guide/navigation#side-panel).
