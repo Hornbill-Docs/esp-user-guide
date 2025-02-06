@@ -1,41 +1,50 @@
 # Overview
-The Email View gives you access to the Shared Mailboxes that you have been given access to. Shared Mailboxes are created to allow a group of users to share a single mailbox for both outgoing and incoming email, all using a common email address. Read, Send, and organize emails.
+In the Email view, you can find the shared mailboxes to which you have been given access. Shared mailboxes are created to allow a group of users to share a single mailbox for both outgoing and incoming email, all using a common email address. Here you can read, send, and organize emails.
 
 ## Folders
-Each Shared Mailbox contains 5 folders with an option to add additional folders to help organize your emails.
+Each shared mailbox contains a set of folders by default, and you can [add additional folders](/esp-user-guide/email-overview#adding-new-folders) to help organize your emails.
 
-* **Inbox**. Contains incoming emails for the Shared Mailbox. Email Routing Rules can be configured to automatically move incoming emails to other designated folders.
-* **Outbox**. Contains all emails that are currently waiting to be sent.
-* **Sent Items**. Contains a copy of all emails sent from the Shared Mailbox
-* **Deleted Items**. Contains a copy of all deleted emails
+* **Inbox.** Contains incoming emails for the shared mailbox. Email routing rules can be configured to automatically move incoming emails to other designated folders.
+* **Outbox.** Contains all emails that are currently waiting to be sent.
+* **Sent Items.** Contains a copy of all emails sent from the shared mailbox.
+* **Deleted Items.** Contains a copy of all deleted emails.
 
 
-### Adding New Folders
-To help organize your emails, additional folders can be created using the Create button. Each new folder is visible to all users that have access to the Shared Mailbox.
+### Adding new folders
+To help organize your emails, you can add additional folders using the **Create** button. Each new folder is visible to all users who have access to the shared mailbox.
 
-Select the Email Folder icon to create a new folder.
-* Give the new folder a name and select Create Folder
-* Default folders can't be deleted, but custom folders you have added can be deleted by using the Trash Can next to the folder you wish to delete
+**To create a new folder:**
+1. Click the email folder icon to create a new folder.
+1. Give the new folder a name.
+1. Click **Create**.
 
-### Searching Emails in Folders
-When in a folder use the Search option to open a search view and begin a search.
+**To delete a folder that has been added:**
+1. Next to the folder you wish to delete, click **Delete** (the trash can icon).
 
-* Type your search term into the search box, and select the Magnifying Glass icon to begin the search
-* The search will be performed on the to / from address, the subject and body of the email
-* By default the search will be limited to the current folder, but use the Search in all folders button to expand the search to all folders.
-* Search results will be relevance scored, and those with the best match will be represented with more stars
+::: note 
+The default folders cannot be deleted.
+:::
 
-### Emptying Folders
-Select the Empty Folder option at the bottom of the frame to delete and permanently delete the contents of the folder
 
-### Hide The Folders List
-Select the Arrow icon to collapse and hide the folder list from the shared mailbox view. Use the same arrows to expand and view the folder list again.
+### Searching emails in folders
+When in a folder, use the Search option to open a search view and begin a search. The search is performed on the To/From addresses, the subject, and the body of the email. Search results are relevance-scored; those with the best match are represented with more stars.
 
-## Emails List
-View, Sort and Action emails in each folder
+**To search in email folders:**
+1. In the Search field, type your search term.
+1. Click the **Search** button.
+1. By default, the search is limited to the current folder; to expand the search to all folders, click **Search in all folders**.
 
-## Email Viewer
-View emails in a a full window
+### Emptying folders
+At the bottom of the frame, click **Empty folder** to permanently delete the contents of the folder.
+
+### Hiding and expanding the folders list
+In the Shared Mailbox view, click the arrow icon to collapse and hide the folder list. Use the same arrow to expand and view the folder list again.
+
+## Emails list
+View, sort, and action emails in each folder.
+
+## Email viewer
+View emails in a a full window.
 
 ## Compose
-Create, reply or forward email messages
+Create, reply, or forward emails.
