@@ -1,5 +1,5 @@
 # News Feed
-The News Feed is a collation of all the posts and comments made in activity streams that you are following. The news feed can include updates from the different installed applications such as workspaces and personal feeds in Collaboration, the timelines on incidents, problems, and changes in Service Manager, updates and discussions on documents in Document Manager, and more.
+The News Feed is a collation of all the posts and comments made in activity streams that you are following. The news feed can include updates from the different installed applications such as workspaces and personal feeds in [Collaboration](/collaboration-user-guide/about-collaboration), the timelines on incidents, problems, and changes in [Service Manager](/servicemanager-user-guide/index), updates and discussions on documents in [Document Manager](/documentmanager-user-guide/index), and more.
 
 The News Feed provides real-time visibility of new posts and comments, giving you an instant view of the updates made to the things that are most important to you.
 
