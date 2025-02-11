@@ -4,7 +4,7 @@
   "description": "Documentation for the user features that are available with the Hornbill Platform",
   "publicSource": "https://github.com/Hornbill-Docs/esp-user-guide",
   "productFamily": "esp",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "audience": [
     "public"
   ],
@@ -104,8 +104,7 @@
         },
         {
           "text": "Activities sidebar",
-          "draft": "true",
-          "link": "esp-user-guide/my-activities/side-bar"
+          "link": "esp-user-guide/my-activities/sidebar"
         }
       ]
     },
