@@ -1,9 +1,9 @@
 # Activity Sidebar
 
-Access your activities from any view on Hornbill by using the collapsable `My Activities` Side Bar
+Access your activities from any view on Hornbill by using the collapsable `My Activities` sidebar
 
 ## Activities
-All Pending activities will be displayed in the collapsible side bar. The tasks icon will display an orange counter that shows the number of notifications relating to new activities.
+All Pending activities will be displayed in the collapsible sidebar. The tasks icon will display an orange counter that shows the number of notifications relating to new activities.
 
 Activities will be grouped, and the groups can be expanded and collapsed using the arrows icon next to each groups name
 
