@@ -4,7 +4,7 @@
   "description": "Documentation for the user features that are available with the Hornbill Platform",
   "publicSource": "https://github.com/Hornbill-Docs/esp-user-guide",
   "productFamily": "esp",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "audience": [
     "public"
   ],
@@ -126,6 +126,10 @@
         {
           "text": "Email Composer",
           "link": "esp-user-guide/email-composer"
+        },
+        {
+          "text": "Email Folders",
+          "link": "esp-user-guide/email-folders"
         }
       ]
     }
