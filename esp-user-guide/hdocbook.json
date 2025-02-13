@@ -4,7 +4,7 @@
   "description": "Documentation for the user features that are available with the Hornbill Platform",
   "publicSource": "https://github.com/Hornbill-Docs/esp-user-guide",
   "productFamily": "esp",
-  "version": "0.0.4",
+  "version": "1.2.1",
   "audience": [
     "public"
   ],
@@ -65,10 +65,12 @@
           },
           {
             "text": "Security",
+            "draft": "true",
             "link": "esp-user-guide/my-profile/security"
           },
           {
             "text": "My Preferences",
+            "draft": "true",
            "link": "esp-user-guide/my-profile/my-preferences"
           }  
          ]
@@ -85,6 +87,7 @@
         },
         {
           "text": "Filters and views",
+          "draft": "true",
           "link": "esp-user-guide/my-activities/filters-and-views"
         },
         {
@@ -101,7 +104,7 @@
         },
         {
           "text": "Activities sidebar",
-          "link": "esp-user-guide/my-activities/side-bar"
+          "link": "esp-user-guide/my-activities/sidebar"
         }
       ]
     },
@@ -123,6 +126,10 @@
         {
           "text": "Email Composer",
           "link": "esp-user-guide/email-composer"
+        },
+        {
+          "text": "Email Folders",
+          "link": "esp-user-guide/email-folders"
         }
       ]
     }

@@ -14,6 +14,6 @@ The platform can be used by several different types of people for different purp
 
 The applications and utilities available for each user will depend on the type of user and the roles that they have been assigned.
 
-* **Core Role.**  If you have been given the Core Role, you will have access to the Company Home and your user profile.
+* **Basic User Role.**  If you have been given the Basic User Role, you will have access to the Company Home and your user profile.
 * **User Role.**  If you have been given the User Role, you will have access to the Company Home, News Feed, Activities, Co-workers, Locations, and your profile.
 
