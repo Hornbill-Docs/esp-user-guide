@@ -1,53 +1,53 @@
-# Email List
-View, Sort, Order and Action emails in each folder.
+# Email list
+View, sort, order, and action emails in each folder.
 
-All unread emails in a email folder list are indicated by a blue line to their left hand edge.
+Unread emails in an email folder list are indicated by a blue line at their left-hand edge.
 
-Use the Arrow options at the bottom of the emails list to minimize or maximize the preview pane, and to include or exclude the sender / receiver icon from the email details
+Use the arrow options at the bottom of the email list to minimize or maximize the preview pane, and to include or exclude the sender/receiver icon from the email details.
 
-## Ordering and Sorting Emails
-By default the emails in each folder will be ordered by date.
+## Ordering and sorting emails
+By default, the emails in each folder are ordered by date.
 
-Click on the Date text to open up a menu to change the order the emails are listed in and choose from:
+Click on the date text to open a menu; you can change the order the emails are listed in. Choose from:
 * Date
 * Flagged (Marked)
-* Status (Read / Unread)
+* Status (Read/Unread)
 
-Use the Arrow to decide if the list should be sorted ascending or descending based on the chosen order attribute
+Use the arrow to sort the list in ascending or descending order based on the chosen order attribute.
 
-## Email View Actions
-Hovering over an email in the list will expose several action options:
+## Email view actions
+You can hover over an email in the list to expose several action options:
 
-* **Flagged**. Select the Star to mark the email as flagged. You may want to revisit these later or order the email list by those which are Flagged
-* **Multi-Select**. Select the Empty Box icon to expose a number of actions which ca be performed against all emails which are selected, see Multi-Select Actions section for more details
-* **Delete**. Select the Trash Can icon to delete and move the email into the Deleted email folder
-* **View**. Select the Arrow in Box icon to open and view the email in a full window
+* **Flagged.** Select the star to mark the email as flagged. You may want to revisit a flagged email later, or order the email list by those which are flagged.
+* **Multi-Select.** Select the Empty Box icon to expose a number of actions that can be performed against all selected emails. See [Multi-select actions](/esp-user-guide/email-list#multi-select-actions)  for more details.
+* **Delete.** Click **Delete** to move the email to the Deleted email folder.
+* **View.** Click the Arrow in Box icon to open and view the email in a full window.
 
-## Multi-Select Actions
-Selecting the Empty Box icon on one or more emails in the list will expose a multi-select menu in the toolbar at the top of the list, the available actions are:
+## Multi-select actions
+Clicking the Empty Box icon on one or more emails in the list exposes a multi-select menu in the toolbar at the top of the list. The available actions are:
 
-* **Move Emails to Another Folder**. Select the folder icon and from the drop down choose which folder to move the emails too.
-* **Read**. Select the eye icon to mark the emails as Read
-* **Unread**. Select the eye with line icon to the emails as Unread
-* **Delete**. Select the trash can icon to delete the emails and move them to the deleted folder
+* **Move Emails to Another Folder.** Click the folder icon, then from the dropdown choose which folder to move the emails to.
+* **Read.** Click the eye icon to mark the emails as read.
+* **Unread.**. Click the eye-with-line icon to the mark the emails as unread.
+* **Delete.** Click the trash can icon to delete the emails and move them to the Deleted folder.
 
-## Email Preview and Actions
+## Email preview and actions
 With an email highlighted in the list, the body of the email will be shown in the preview pane to the right of the list. Multiple actions are available to you from the preview pane.
 
-* **Reply**. Select the left directed arrow icon to open the email composer with the 'From email address from the email added to the To email address for the reply
-* **Forward**. Select the right directed arrow icon to open the email composer
-* **Delete**. Select the trash can icon to delete the email and move it to the deleted folder
-* **Move**. Select the folder icon and drop down to choose a folder to move the email too
-* **HTML View**. Select the A icon to toggle between a plain text view and an HTML preview of the email content
-* **Mark as Read**. - Select the eye icon to mark the email as read
+* **Reply.** Click the left-directed arrow icon to open the email composer with the From email address from the email added to the To email address for the reply.
+* **Forward.** Click the right-directed arrow icon to open the email composer.
+* **Delete.** Click the trash can icon to delete the email and move it to the Deleted folder.
+* **Move.** Click the folder icon, then from the dropdown choose a folder to move the email to.
+* **HTML View.** Select the A icon to toggle between a plain-text view and an HTML preview of the email content.
+* **Mark as Read.** Select the eye icon to mark the email as read.
 
-Use the Sideways Arrows icon to expand the More information panel in the preview pane
+Use the sideways-arrows icon to expand the More Information panel in the preview pane.
 
 Showing:
-The To email address
-Any Related Media of the email
+* The To email address
+* Any related media of the email
 
-## Failed Delivery on Email
+## Failed delivery on email
 An email that failed to be delivered is shown as a red triangle and count of unread messages in sent items. Note that this will show on all previously failed deliveries, not just new items.
 
 * If an email is successfully sent to all recipients it is moved into the Sent Items folder and Marked as Read.
