@@ -1,40 +1,40 @@
-# Organizations
+# Companies
 
-If you deliver a service to organizations external to your own, you will store them in Hornbill as Organization records. They work in conjunction with contact records which can be associated with organization records. Organization records can also be used to represent suppliers or third parties. 
+If you deliver a service to company external to your own, you will store them in Hornbill as company records. They work in conjunction with contact records which can be associated with company records. Company records can also be used to represent suppliers or third parties. 
 
-## Organization list
+## Company list
 * You can configure the available display columns in the list to show the information that is important to you using the cog icon.
-* Click on a specific organization record to view more information about that organization.
-* Click on the File Box icon next to any organization you wish to archive.
+* Click on a specific company record to view more information about that company.
+* Click on the File Box icon next to any company you wish to archive.
 
-### Searching organizations
-* **Quick Filter**. Use to easily find a specific organization record by searching against their name.
+### Searching companies
+* **Quick Filter**. Use to easily find a specific company record by searching against their name.
 * **Advanced Filter** Select the Funnel icon to expose additional search filters, including industry, city, and country.
-* **Archived**. Use the File Box icon to filter the list to organizations that have been archived.
-* **Export**. Use the Download Arrow icon to export the filtered list of organizations.
-* **Contacts**. View Contacts for the listed organizations.
-* **Global Search**. With the filter switched to Organizations you can search for organizations by name, and see matching results displayed in the organization list.
+* **Archived**. Use the File Box icon to filter the list to company that have been archived.
+* **Export**. Use the Download Arrow icon to export the filtered list of companies.
+* **Contacts**. View Contacts for the listed companies.
+* **Global Search**. With the filter switched to companies you can search for companies by name, and see matching results displayed in the company list.
 
-### Add an organization
+### Add a company
 
-Organizations can be added using the + Create New button
-Complete the mandatory fields, and any optional fields. Select Create to add the organization.
+Companies can be added using the + Create New button
+Complete the mandatory fields, and any optional fields. Select Create to add the company.
 
-## Organization Record
-### Manage Organizations
-From an organization record the following options are available to you.
+## Company Record
+### Manage Companies
+From a company record the following options are available to you.
 
-* **Archive**. If an organization is no longer needed, mark it as Archived. This will remove them from general organization searches, but will still be accessible from the organization list and archived organizations option.
-* **Contacts**. View any existing organization's contacts and add new ones.
-* **Logo**. Upload an organizations logo.
+* **Archive**. If an company is no longer needed, mark it as Archived. This will remove them from general organization searches, but will still be accessible from the company list and archived companies option.
+* **Contacts**. View any existing company's contacts and add new ones.
+* **Logo**. Upload a company's logo.
 * **Industry**. The industry field uses Simple List data. The list should be called Industry in the Collaboration app.
 * **Region**. The region field is hidden by default and it uses a Simple List data. The list should be called ExternalOrganizationRegions in the Collaboration app.
 
 ## Administration
 
-* **Form Designer**.  Users with the Form Designer role will be able to add custom fields, hide existing fields, edit their properties, and edit which sections of the organization record, fields are displayed in. This can achieved by dragging and dropping the fields into the required sections. With the Form Designer role, users will see a Design option to go into edit mode.
+* **Form Designer**.  Users with the Form Designer role will be able to add custom fields, hide existing fields, edit their properties, and edit which sections of the company record, fields are displayed in. This can achieved by dragging and dropping the fields into the required sections. With the Form Designer role, users will see a Design option to go into edit mode.
 
-* **Custom Buttons**. Create custom buttons on the organization record. Typical use of custom buttons could be to link to a document (held in Document Manager, or other externally accessible cloud solution).
+* **Custom Buttons**. Create custom buttons on the company record. Typical use of custom buttons could be to link to a document (held in Document Manager, or other externally accessible cloud solution).
 
 <!--
 Plug-ins
