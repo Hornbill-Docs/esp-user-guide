@@ -4,7 +4,7 @@
   "description": "Documentation for the user features that are available with the Hornbill Platform",
   "publicSource": "https://github.com/Hornbill-Docs/esp-user-guide",
   "productFamily": "esp",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "audience": [
     "public"
   ],
@@ -141,8 +141,8 @@
           "link": "esp-user-guide/customers/contacts"
         },
         {
-          "text": "Organizations",
-          "link": "esp-user-guide/customers/organizations"
+          "text": "Companies",
+          "link": "esp-user-guide/customers/companies"
         }
       ]
     }

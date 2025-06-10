@@ -20,8 +20,8 @@ If you deliver a service to company external to your own, you will store them in
 Companies can be added using the + Create New button
 Complete the mandatory fields, and any optional fields. Select Create to add the company.
 
-## Company Record
-### Manage Companies
+## Company record
+### Manage companies
 From a company record the following options are available to you.
 
 * **Archive**. If an company is no longer needed, mark it as Archived. This will remove them from general organization searches, but will still be accessible from the company list and archived companies option.
