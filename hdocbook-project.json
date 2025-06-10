@@ -8,6 +8,6 @@
     "exclude_links": []
   },
    "redirects": [
-     { "url": "/esp-user-guide/customers/organizations", "location": "https://docs.hornbill.com/esp-user-guide/customers/companies", "code": 301 }
+     { "url": "/esp-user-guide/customers/organizations", "location": "/esp-user-guide/customers/companies", "code": 301 }
    ]
 }
