@@ -4,7 +4,7 @@
   "description": "Documentation for the user features that are available with the Hornbill Platform",
   "publicSource": "https://github.com/Hornbill-Docs/esp-user-guide",
   "productFamily": "esp",
-  "version": "1.3.7",
+  "version": "1.3.8",
   "audience": [
     "public"
   ],
@@ -84,11 +84,6 @@
         {
           "text": "Overview",
           "link": "esp-user-guide/my-activities/overview"
-        },
-        {
-          "text": "Filters and views",
-          "draft": "true",
-          "link": "esp-user-guide/my-activities/filters-and-views"
         },
         {
           "text": "Activities list",
