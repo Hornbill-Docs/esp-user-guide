@@ -1,7 +1,7 @@
 # My Activities
 Activities are your to-do list. Activities can be created manually from your activities views and from entity views in installed line-of-business applications; they can also be created automatically by the workflow in a business process.
 
-## Viewing Activities
+## Viewing activities
 Activities can be viewed and completed in many different locations.
 
 * **List view**. View your activities in a traditional view, see progress, choose displayed columns and sort the order of activities by the different columns.
@@ -34,7 +34,7 @@ Activities can come in various forms but are summarized as follows:
 * **Enforce Completion**. Mark if the checklist must be complete before the activity can be completed.
 * **Attach File**. Optionally attach files relevant to the activity you are creating.
 
-## Scheduled Activities
+## Scheduled activities
 This list displays all of the user's scheduled activities. A scheduled activity is an activity that has been scheduled to be automatically added to the activity list using a defined recurrence pattern.
 
 * Delete a scheduled activity.
@@ -45,10 +45,19 @@ This list displays all of the user's scheduled activities. A scheduled activity 
     :::
 * Edit the scheduled activity.
 
-## Manage Categories
+## Manage categories
 Each activity has the option to set a category to help with grouping similar activities which can be used to help organize views, lists, and reports.
 
-## Manage Templates
+### How to access
+The Manage Categories view is only available to users with specific roles or rights.
+* The Admin Role.
+* A custom role that includes the Core application admin right `Manage Task Categories`.
+
+## Manage templates
 Activity Templates can be set up to provide users with selectable, pre-defined templates that are used for common activities. This ensures that all users that perform a particular activity are using the same configuration. Templates are only available to use when manually creating an activity.
 
-The Manage Templates view is only available to users with the Activities Template Manager role.  
+### How to access
+The Manage Templates view is only available to users with specific roles or rights.  
+* The Admin role.
+* The Activities Template Manager role.  
+* A custom role with the Core Application right `canManageTaskTemplates`
