@@ -33,3 +33,22 @@ Activities can come in various forms but are summarized as follows:
 * **Add Checklist**. Create a checklist and checklist items which need to be completed as part of the activity.
 * **Enforce Completion**. Mark if the checklist must be complete before the activity can be completed.
 * **Attach File**. Optionally attach files relevant to the activity you are creating.
+
+## Scheduled Activities
+This list displays all of the user's scheduled activities. A scheduled activity is an activity that has been scheduled to be automatically added to the activity list using a defined recurrence pattern.
+
+* Delete a scheduled activity.
+* Edit the recurrence pattern.
+* Stop or start the recurrence of an activity.
+    :::tip
+    If a scheduled activity has been stopped for some time, and the Next Run displays a time in the past, the activity will be run as soon as it is re-started. By clicking on the scheduled activity, the next run date can be modified before re-starting the activity.
+    :::
+* Edit the scheduled activity.
+
+## Manage Categories
+Each activity has the option to set a category to help with grouping similar activities which can be used to help organize views, lists, and reports.
+
+## Manage Templates
+Activity Templates can be set up to provide users with selectable, pre-defined templates that are used for common activities. This ensures that all users that perform a particular activity are using the same configuration. Templates are only available to use when manually creating an activity.
+
+The Manage Templates view is only available to users with the Activities Template Manager role.  
