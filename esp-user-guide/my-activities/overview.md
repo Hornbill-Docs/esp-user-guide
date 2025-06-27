@@ -51,7 +51,7 @@ Each activity has the option to set a category to help with grouping similar act
 ### How to access
 The Manage Categories view is only available to users with specific roles or rights.
 * The Admin Role.
-* A custom role that includes the Core application admin right `Manage Task Categories`.
+* A [custom role](/esp-config/organizational-data/roles#user-created-roles) that includes the Core application admin right `Manage Task Categories`.
 
 :::note
 Activity Categories are global and are available to everyone that uses activities.
@@ -62,6 +62,13 @@ Activity Templates can be set up to provide users with selectable, pre-defined t
 
 ### How to access
 The Manage Templates view is only available to users with specific roles or rights.  
-* The Admin role.
-* The Activities Template Manager role.  
-* A custom role with the Core Application right `canManageTaskTemplates`
+* The [Admin role](/esp-config/organizational-data/roles#system-roles).
+* The [Activities Template Manager role](/esp-config/organizational-data/roles#system-roles).  
+* A [custom role](/esp-config/organizational-data/roles#user-created-roles) with the Core Application right `canManageTaskTemplates`
+
+### How to use
+When any new activity is being created, there is an option for the user to select from a list of available templates.  Once selected, the template will be applied to the activity form.
+
+:::note
+Activity Templates are global and are available to everyone that uses activities.
+:::
