@@ -46,12 +46,16 @@ This list displays all of the user's scheduled activities. A scheduled activity 
 * Edit the scheduled activity.
 
 ## Manage categories
-Each activity has the option to set a category to help with grouping similar activities which can be used to help organize views, lists, and reports.
+Each activity has the option to set a category to help with grouping similar activities which can be used to help organize views, lists, and reports. The Manage Categories view provides a way to modify the available categories.  
 
 ### How to access
 The Manage Categories view is only available to users with specific roles or rights.
 * The Admin Role.
 * A custom role that includes the Core application admin right `Manage Task Categories`.
+
+:::note
+Activity Categories are global and are available to everyone that uses activities.
+:::
 
 ## Manage templates
 Activity Templates can be set up to provide users with selectable, pre-defined templates that are used for common activities. This ensures that all users that perform a particular activity are using the same configuration. Templates are only available to use when manually creating an activity.
