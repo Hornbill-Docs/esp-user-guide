@@ -2,22 +2,23 @@
 Activities are your to-do list. Activities can be created manually from your activities views and from entity views in installed line-of-business applications; they can also be created automatically by the workflow in a business process.
 
 ## Viewing activities
-Activities can be viewed and completed in many different locations.
+Activities can be viewed and completed from different locations.
 
-* **List view**. View your activities in a traditional view, see progress, choose displayed columns and sort the order of activities by the different columns.
-* **Board view**. View your activities on boards. Create and configure multiple board views, setting custom lists and criteria that dynamically show activities matching the list criteria.
-* **Calendar view**. View your activities in a calendar view, with options to view daily, weekly, or monthly.
-* **My Activities Sidebar**. Get quick access to all of your activities by clicking My Activities (the circled checkmark) in the right hand sidebar.
+* **List view**. View your activities in a traditional [activity list](/esp-user-guide/my-activities/activity-list). See your activity progress, choose displayed columns and sort the order of activities by the different columns.
+* **Board view**. View your activities on the [activities board](/esp-user-guide/my-activities/activity-board). Create and configure multiple board views, setting custom lists and criteria that dynamically show activities matching the list criteria.
+* **Calendar view**. View your activities in a [calendar view](/esp-user-guide/my-activities/activity-calendar), with options to view daily, weekly, or monthly activities.
+* **My Activities Sidebar**. Get quick access to all of your activities by clicking on the right-hand [My Activities sidebar](/esp-user-guide/my-activities/sidebar) ![My Activities icon](/_books/esp-user-guide/images/my-activities-icon.png) option.
+* **Activity Plug-ins**. Some Hornbill apps include an activity plug-in that allows you to create and completed activities for a selected entity. 
 
 ## Activity types
 Activities can come in various forms but are summarized as follows:
 
 * **Manually created activities**. Each user can create their own activites or assign activites to other users.
-* **Workflow Human Tasks**. Users can be assigned a task as part of an automated workflow.  
-* **Authorizations**. Authorizations can be assigned to users as part of an automated workflow. Authorizations can't be manually created.
+* **Workflow Human Tasks**. Users can be assigned an activity as part of an automated workflow. These are known as [Human Tasks](/esp-config/automation/human-task) because they required human interaction rather than being an automated workflow task.
+* **Authorizations**. [Authorizations](/esp-config/automation/authorization) can be assigned to users as part of an automated workflow. Authorizations can't be manually created.
 
 ## Activity attributes
-* **Title**. The Activity name which is prominantely displayed in the different views to indentify the activity.
+* **Title**. The activity name which is prominantely displayed in the different views to indentify the activity.
 * **Description**. Details relating to what need to be completed in the activity.
 * **Personal**. Option to mark the activity as private. Users that have the right to view your activities will not see these in their list.
 * **Schedule**. Option to set a schedule for the reoccurrence for the activity.
