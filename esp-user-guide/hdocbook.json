@@ -4,7 +4,7 @@
   "description": "Documentation for the user features that are available with the Hornbill Platform",
   "publicSource": "https://github.com/Hornbill-Docs/esp-user-guide",
   "productFamily": "esp",
-  "version": "1.3.14",
+  "version": "1.4.0",
   "audience": [
     "public"
   ],
@@ -104,8 +104,12 @@
       ]
     },
     {
-          "text": "Co-workers",
-          "link": "esp-user-guide/co-workers"
+      "text": "Co-workers",
+      "link": "esp-user-guide/co-workers"
+    },
+    {
+      "text": "Locations",
+      "link": "esp-user-guide/locations"
     },
     {
       "text": "Email",
