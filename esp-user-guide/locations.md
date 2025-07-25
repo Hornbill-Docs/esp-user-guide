@@ -1,4 +1,4 @@
-# Location
+# Locations
 View information about your organization's locations. The location view can be accessed from the Home Menu.
 
 ## Before you begin
