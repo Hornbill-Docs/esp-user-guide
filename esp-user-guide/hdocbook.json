@@ -4,7 +4,7 @@
   "description": "Documentation for the user features that are available with the Hornbill Platform",
   "publicSource": "https://github.com/Hornbill-Docs/esp-user-guide",
   "productFamily": "esp",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "audience": [
     "public"
   ],
@@ -65,7 +65,6 @@
           },
           {
             "text": "Security",
-            "draft": "true",
             "link": "esp-user-guide/my-profile/security"
           },
           {
