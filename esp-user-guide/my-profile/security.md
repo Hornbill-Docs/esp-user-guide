@@ -27,3 +27,12 @@ Managing Mobile Devices
 
 ### Deregister Device
 You may wish to unlink your mobile device from your instance and user account, for example, if you wanted to link it with another instance or user account. To do this on the Mobile, open the menu and click on the cog icon. At the bottom of the view is an option to `Deregister Device`.
+
+## Login History
+The Login History displays a list of logins or login attempts for your account.  This list shows two types of records, successful logins and unsuccessful logins.
+
+You will want to review this list to see if there are any logins or login attempts that you are not familiar with.  Multiple unsuccessful login attempts may highlight someone trying to access your account. An option to show only unsuccessful logins is available.
+
+:::note
+A map shows the approximate location of the login.  Often, this will be the location of the ISP and not the exact location of the person logging in.
+:::
