@@ -26,7 +26,23 @@ At the bottom of the list of statuses is a `More` option.  This allows you to ex
 
 ![User Availability Status More](/_books/esp-user-guide/images/user-availability-more.png)
 
-## Status enabled with time recording
-When Time Recording is enabled, the time of each status change is captured and visible to you and other users.
+## Time recording
+When Time Recording is enabled, the time of each availability status change is captured and visible to you and other users.
 
 ![Status with Time](/_books/esp-user-guide/images/status-with-time.png)
+
+## Login status
+The loging status is displayed as a colored dot on a user's profile image and is based on their connection to Hornbill. This is automatically set each time they log in or out of Hornbill.
+
+* Green is online.
+* Amber is logged in but inactive.
+* Red is offline.
+* A mobile icon indicates they are online using the Hornbill mobile app.
+
+The login status and the availability status compliment each other.  A user might set their availability to Out of office, but users could still see if they are online using the mobile app.
+
+![User Card](/_books/esp-user-guide/images/user-card.png)
+
+:::note
+If a user is logged in using both a web browser and the Hornbill Mobile app, the green dot will be displayed.
+:::
