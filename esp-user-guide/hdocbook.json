@@ -4,7 +4,7 @@
   "description": "Documentation for the user features that are available with the Hornbill Platform",
   "publicSource": "https://github.com/Hornbill-Docs/esp-user-guide",
   "productFamily": "esp",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "audience": [
     "public"
   ],
@@ -13,138 +13,137 @@
   ],
   "navigation": {
     "items": [
-    {
-      "text": "Welcome",
-      "link": "esp-user-guide/index"
-    },
-    {
-      "text": "Logging in",
-      "link": "esp-user-guide/login"
-    },
-    {
-      "text": "Finding your way around",
-      "link": "esp-user-guide/navigation"
-    },
-    {
-      "text": "Availability status",
-      "link": "esp-user-guide/availability-status"
-    },
-    {
-      "text": "Notifications",
-      "link": "esp-user-guide/notifications"
-    },
-    {
-      "text": "My Mentions",
-      "link": "esp-user-guide/mentions"
-    },
-    {
-      "text": "Bookmarks",
-      "link": "esp-user-guide/bookmarks"
-    },
-    {
-      "text": "Company Home",
-      "link": "esp-user-guide/company-home"
-    },
-    {
-      "text": "News Feed",
-      "link": "esp-user-guide/news-feed"
-    },
-    {
-      "text": "My Profile",
-      "items": [
-        {
-          "text": "My Profile",
-          "link": "esp-user-guide/my-profile/overview"
-        },
-        {
-          "text": "My Personal Settings",
-          "items":[
+      {
+        "text": "Welcome",
+        "link": "esp-user-guide/index"
+      },
+      {
+        "text": "Logging in",
+        "link": "esp-user-guide/login"
+      },
+      {
+        "text": "Finding your way around",
+        "link": "esp-user-guide/navigation"
+      },
+      {
+        "text": "Availability status",
+        "link": "esp-user-guide/availability-status"
+      },
+      {
+        "text": "Notifications",
+        "link": "esp-user-guide/notifications"
+      },
+      {
+        "text": "My Mentions",
+        "link": "esp-user-guide/mentions"
+      },
+      {
+        "text": "Bookmarks",
+        "link": "esp-user-guide/bookmarks"
+      },
+      {
+        "text": "Company Home",
+        "link": "esp-user-guide/company-home"
+      },
+      {
+        "text": "News Feed",
+        "link": "esp-user-guide/news-feed"
+      },
+      {
+        "text": "My Profile",
+        "items": [
           {
-           "text": "My Information",
-           "link": "esp-user-guide/my-profile/my-information"
+            "text": "My Profile",
+            "link": "esp-user-guide/my-profile/overview"
           },
           {
-            "text": "Security",
-            "link": "esp-user-guide/my-profile/security"
+            "text": "My Personal Settings",
+            "items": [
+              {
+                "text": "My Information",
+                "link": "esp-user-guide/my-profile/my-information"
+              },
+              {
+                "text": "Security",
+                "link": "esp-user-guide/my-profile/security"
+              },
+              {
+                "text": "My Preferences",
+                "draft": "true",
+                "link": "esp-user-guide/my-profile/my-preferences"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "My Activities",
+        "items": [
+          {
+            "text": "Overview",
+            "link": "esp-user-guide/my-activities/overview"
           },
           {
-            "text": "My Preferences",
-            "draft": "true",
-           "link": "esp-user-guide/my-profile/my-preferences"
-          }  
-         ]
-        }
-        
-      ]
-    },
-    {
-      "text": "My Activities",
-      "items": [
-        {
-          "text": "Overview",
-          "link": "esp-user-guide/my-activities/overview"
-        },
-        {
-          "text": "Activities list",
-          "link": "esp-user-guide/my-activities/activity-list"
-        },
-        {
-          "text": "Activities board",
-          "link": "esp-user-guide/my-activities/activity-board"
-        },
-        {
-          "text": "Activities calendar",
-          "link": "esp-user-guide/my-activities/activity-calendar"
-        },
-        {
-          "text": "Activities sidebar",
-          "link": "esp-user-guide/my-activities/sidebar"
-        }
-      ]
-    },
-    {
-      "text": "Co-workers",
-      "link": "esp-user-guide/co-workers"
-    },
-    {
-      "text": "Locations",
-      "link": "esp-user-guide/locations"
-    },
-    {
-      "text": "Email",
-      "items": [
-        {
-          "text": "Overview",
-          "link": "esp-user-guide/email-overview"
-        },
-        {
-          "text": "Email list",
-          "link": "esp-user-guide/email-list"
-        },
-        {
-          "text": "Email Composer",
-          "link": "esp-user-guide/email-composer"
-        },
-        {
-          "text": "Email Folders",
-          "link": "esp-user-guide/email-folders"
-        }
-      ]
-    },
-    {
-      "text": "Customers",
-      "items":[
-        {
-          "text": "Contacts",
-          "link": "esp-user-guide/customers/contacts"
-        },
-        {
-          "text": "Companies",
-          "link": "esp-user-guide/customers/companies"
-        }
-      ]
-    }
-  ]
+            "text": "Activities list",
+            "link": "esp-user-guide/my-activities/activity-list"
+          },
+          {
+            "text": "Activities board",
+            "link": "esp-user-guide/my-activities/activity-board"
+          },
+          {
+            "text": "Activities calendar",
+            "link": "esp-user-guide/my-activities/activity-calendar"
+          },
+          {
+            "text": "Activities sidebar",
+            "link": "esp-user-guide/my-activities/sidebar"
+          }
+        ]
+      },
+      {
+        "text": "Co-workers",
+        "link": "esp-user-guide/co-workers"
+      },
+      {
+        "text": "Locations",
+        "link": "esp-user-guide/locations"
+      },
+      {
+        "text": "Email",
+        "items": [
+          {
+            "text": "Overview",
+            "link": "esp-user-guide/email-overview"
+          },
+          {
+            "text": "Email list",
+            "link": "esp-user-guide/email-list"
+          },
+          {
+            "text": "Email Composer",
+            "link": "esp-user-guide/email-composer"
+          },
+          {
+            "text": "Email Folders",
+            "link": "esp-user-guide/email-folders"
+          }
+        ]
+      },
+      {
+        "text": "Customers",
+        "items": [
+          {
+            "text": "Contacts",
+            "link": "esp-user-guide/customers/contacts"
+          },
+          {
+            "text": "Companies",
+            "link": "esp-user-guide/customers/companies"
+          }
+        ]
+      }
+    ]
   },
   "tags": []
 }
