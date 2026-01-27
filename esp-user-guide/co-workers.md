@@ -34,9 +34,9 @@ Profile images that haven't been updated with a photo are displayed as a colored
 :::
 
 #### Profile name and contact details
-Click on the co-worker's name to be taken to their profile.
-Click on any displayed email address to open the email composer to send them an email.
-Click on a displayed phone number to initiate a call the co-worker via installed browser tools.
+* Click on the co-worker's name to be taken to their profile.
+* Click on any displayed email address to open the email composer to send them an email.
+* Click on a displayed phone number to initiate a call the co-worker via installed browser tools.
 
 ## Global Search
 You can also use the Global Search bar at the top of Hornbill Collaboration to search for Co-workers.

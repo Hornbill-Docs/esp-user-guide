@@ -1,37 +1,32 @@
 # Email Composer
-Create, reply or forward new email messages. Use the email editor in conjunction with email templates and snippets to format the content for the outbound email.
+Create, reply to, or forward email messages. Use the email editor in combination with email templates and snippets to format the content for the outgoing email.
 
 ## Email content
 When sending an email from the mailbox view there are a number of options available to you:
 
-* **From**. If you only have access to one shared mailbox, the from address will be fixed, however if you have access to more than one, you can choose which mailbox the email you are sending will be sent from
-* **To**. Use the search field to add one or more co-workers and contacts
-* **Cc & Bcc**. Use these buttons to show additional fields to carbon copy or blind carbon copy other contacts and co-workers
-* **Attach**. Use this option to drag and drop, or explore to add attachments to the email
-* **Priority**. Use the explantation mark to set the emails priority as High, Medium or Low
-* **Subject**. Specify the text which will appear in the subject line of the outbound email
-* **Body**. Use the toolbar options to format the content of the email, add images, links and preview how the email will appear before it is sent.
+* **From**. If you only have access to one shared mailbox, the "From" address will be fixed. However, if you have access to more than one, you can choose which mailbox to send the email from.
+* **To**. Use the search field to add one or more co-workers and contacts.
+* **Cc & Bcc**. Use these buttons to display additional fields for carbon copying (Cc) or blind carbon copying (Bcc) other contacts and co-workers.
+* **Attach**. Use this option to drag and drop attachments or explore to add them to the email.
+* **Priority**. Use the exclamation mark to set the email's priority as High, Medium, or Low.
+* **Subject**. Specify the text that will appear in the subject line of the outgoing email.
+* **Body**. Use the toolbar options to format the content of the email, add images and links, and preview how the email will appear before sending it.
 
-When happy use the `Send` option to send the email, or close to close the composer and not send the email
+Use the "Send" option to send the email, or select "Discard" to exit the composer without sending the email.
 
 ## Templates
-It can be useful to pre-define email template content which you regularly use, or you want to share with members of your groups so that consistent messaging is communicated. To help achieve this, you can create and use both personal email templates and those which you can share with groups which you are a member of, so other members have access to them.
+It can be beneficial to predefine email template content that you regularly use or wish to share with members of your groups to ensure consistent messaging. To facilitate this, you can create and utilize both personal email templates and those that can be shared with groups you are a part of, allowing other members to access them.
 
-### Creating an Email Template
-Click on the Template option and choose Manage Templates, and Add New.
+### Managing templates
+Click on the `Template` option, then select `Manage Templates`.
 
-Give the Template a display name
-From the Add to option choose if the template will only be available to you by choosing Personal Templates or Choose one of your groups which the template will be available to by choosing Groups and selecting the group
-Subject - Set the subject text which will be used when this template is used.
-Body - Use the email editor to set the body of the email will be be used when this template is used
-Insert Params - Use this option to add the variables of the User who the email will be sent from. So if a template is shared with a group, and a member of the group uses the template, then the first name, surname, job title etc variables will resolve to their details.
-Click Save to make the template available
-
-### Using Templates
-Select which if any email template to use from the list of available templates.
-Select No Template to clear down any existing template content
-Manage Templates
-Click on Template and Manage Templates to see a list of the templates you have created. Open an existing template to edit and save changes or to delete it if it is no longer required.
+#### Add a new template
+1. Give the template a name that will easily identfy the template when being selected from a list.
+1. From the `Add To` option select `Personal Templates` if the template will only be available to you. To share the template, select `Groups` and choose one of your groups that the template will be available to.
+1. Add the subject text.
+1. Use the email editor to construct the body of the email.
+1. Use the `Insert Params` option to add the variables of the user who the email will be sent from. If a template is shared with a group, and a member of the group uses the template, then the first name, surname, job title etc variables will resolve to their details.
+1. Click `Create` to make the template available.
 
 ## Snippets
 Like Templates, Snippets allow you to pre-define content to inject into the email composer
@@ -39,22 +34,20 @@ Like Templates, Snippets allow you to pre-define content to inject into the emai
 ### Creating an Email Snippet
 Click on the Snippets option and choose Manage Snippets, and Add New.
 
-Give the Snippet a display name
-From the Add to option choose if the Snippet will only be available to you by choosing Personal Snippets or Choose one of your groups which the snippet will be available to by choosing Groups and selecting the group
-Body - Use the email editor to set the content for the Snippet
-Insert Params - Use this option to add the variables of the User who the email will be sent from. So if a Snippet is shared with a group, and a member of the group uses the Snippet, then the first name, surname, job title etc variables will resolve to their details.
-Click Save to make the Snippet available
+1. Give the Snippet a name.
+1. From the `Add To` option choose if the Snippet will only be available to you by choosing `Personal Snippets`. To share the snippet, select `Groups` and choose one of your groups which the snippet will be available to.
+1. Use the editor to add the content for the Snippet.
+1. Use the `Insert Params` option to add the variables of the user who the email will be sent from. If a Snippet is shared with a group, and a member of the group uses the Snippet, then the first name, surname, job title etc variables will resolve to their details.
+1. Click `Create` to make the Snippet available
 
 ### Using Snippets
-Select which if any email Snippet to use from the list of available Snippets, this will inject the Snippet content into the email composer and any existing content / template
+Choose an email snippet from the list of available snippets. This will automatically insert the snippet's content into the email composer at the location of the current insertion point, integrating it with any existing content.
+
 ### Manage Snippets
-Click on Snippet and Manage Snippets to see a list of the snippets you have created. Open an existing Snippet to edit and save changes or to delete it if it is no longer required.
+Click on "Snippet" and then "Manage Snippets" to view a list of the snippets you have created. You can open an existing snippet to edit, save changes, or delete it if it is no longer needed.
 
 ## Plug-ins
-Timesheet Manager
-If you have timesheet manager configured, you will see a clock auto recording the time spent on composing the email. On sending the email the time will be recorded against you in the Timesheet Manager App.
+### Timesheet Manager
+If you have the Timesheet Manager configured, you will see a clock that automatically records the time spent composing the email. Once the email is sent, the time will be recorded in the Timesheet Manager App.
 
-Manually set the time spent, by pausing the timer and entering the time spent
-By default a category for the time spent will may be set, but if you wish to change this, select a category and sub-category from the drop down list.
-
-<!-- https://wiki.hornbill.com/index.php?title=Email_Composer -->
+Manually set the time spent by pausing the timer and entering the time. By default, a category for the time spent may be set. However, if you wish to change this, select a category and sub-category from the drop-down list.
