@@ -1,35 +1,42 @@
 # Co-Workers
-The Co-workers acts as a staff directory for all the users in Hornbill. From this list you can search for co-workers to get contact information such as an email address or phone number. From here you can also start a conversation, award someone, or start a skype chat. See which co-workers are active or available by seeing their Presence and Availability displayed in the list.
+The Co-workers List is a staff directory containing all the users in Hornbill. You can use this list to search for co-workers and obtain their contact information, such as email addresses and phone numbers.
 
-This list contains a maximum of 30 co-workers with an option to navigate through the additional pages at the bottom of the list if the number of co-workers exceeds 30.
+![Co-worker list](/_books/esp-user-guide/images/co-worker-list.png)
 
-## Filter
+## Toolbar
+#### Filter
+The filter enables you to quickly find a co-worker. As you type, the list will automatically display co-workers whose first name, last name, full name, site, or organizational group matches your input.
 
-The filter allows you to quickly locate a co-worker in the list. As you type the list will automatically display only the co-workers that include the first name, last name, users full name, site or organizational group that you are typing.
+#### Archived users
+![Archived users](/_books/esp-user-guide/images/co-worker-list-archived.png)
 
-## Type
-Filter the list of users by:
+The archived users button is an advanced option that is only available to users who have a role that contains the `manage users` [system right](/esp-config/organizational-data/roles#system-rights).  Clicking on this button will show only the users that have been archived in Hornbill. 
 
-Co-worker - A user who has a access to collaboration on Hornbill via a collaboration subscription
-Basic User - A user who only has access to self service via the service portal
-All - Both Co-workers and Basic users
-Sorting
-Two options are provided for sorting.
+#### Login Status
+Select a [login status](/esp-user-guide/availability-status#login-status) to show only co-workers who match that status. The login statuses include:
+* **No status**. Show all co-workers, regardless of their login status.
+* **Offline**. Show the co-workers who are not logged in.
+* **Online**. Show the co-workers who are logged in.
+* **Mobile**. Show the co-workers who are logged in using the Hornbill Mobile app.
+* **Inactive**. Show the co-workers who are logged in but not currently active in Hornbill.
 
-The co-worker list can be sorted by Username, First name, Last name, Job title, Location, Site name or Manager
-A second option allow you to display the list in either ascending or descending order.
-## Group By
-Tick the Group By option to show the users grouped by the Sorting option, for example Manager, or Site.
+#### Availability Status
+Select an [availability status](/esp-user-guide/availability-status) to show only co-workers who match that status.
 
-## Options
-Hover over a co-workers image to see a pop up with the following options:
-Follow a co-worker
-Award a co-worker
-Start a conversation
-Start a Skype Chat (If a Skype id has defined against the co-workers profile)
-Click on the co-workers name to be take to their profile
-Click on any displayed email address to open the email composer to send them an email
-Click on a displayed phone number to initiate a call the co-worker via installed browser tools like Skype or Facetime using the tel: scheme (assuming the co-workers phone number is stored in the correct format for the chosen browser tool)
+#### Profile image
+Click on a co-workers image to see a pop up with the following options:
+* Follow a co-worker.
+* Award a co-worker.
+* Start a conversation.
+
+:::note
+Profile images that haven't been updated with a photo are displayed as a colored circle with the first letter of the co-worker's first name.
+:::
+
+#### Profile name and contact details
+Click on the co-worker's name to be taken to their profile.
+Click on any displayed email address to open the email composer to send them an email.
+Click on a displayed phone number to initiate a call the co-worker via installed browser tools.
 
 ## Global Search
 You can also use the Global Search bar at the top of Hornbill Collaboration to search for Co-workers.
