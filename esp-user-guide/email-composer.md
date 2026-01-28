@@ -1,21 +1,28 @@
 # Email Composer
 Create, reply to, or forward email messages. Use the email editor in combination with email templates and snippets to format the content for the outgoing email.
 
-## Email content
-When sending an email from the mailbox view there are a number of options available to you:
+![Email composer](/_books/esp-user-guide/images/email-composer.png)
 
+#### Options
 * **From**. If you only have access to one shared mailbox, the "From" address will be fixed. However, if you have access to more than one, you can choose which mailbox to send the email from.
-* **To**. Use the search field to add one or more co-workers and contacts.
+* **To**. Use the search Add recipient field to add one or more recipents.  As you type, existing co-workers and contacts that match the typed text will display for easy selection.
 * **Cc & Bcc**. Use these buttons to display additional fields for carbon copying (Cc) or blind carbon copying (Bcc) other contacts and co-workers.
-* **Attach**. Use this option to drag and drop attachments or explore to add them to the email.
+* **Attach Files**. Use this option to drag and drop attachments or explore to add them to the email.
+* **Template**. Use this option to select a predefined template
 * **Priority**. Use the exclamation mark to set the email's priority as High, Medium, or Low.
 * **Subject**. Specify the text that will appear in the subject line of the outgoing email.
 * **Body**. Use the toolbar options to format the content of the email, add images and links, and preview how the email will appear before sending it.
 
-Use the "Send" option to send the email, or select "Discard" to exit the composer without sending the email.
+Use the `Send` option to send the email, or select `Discard` to exit the composer without sending the email.
 
 ## Templates
-It can be beneficial to predefine email template content that you regularly use or wish to share with members of your groups to ensure consistent messaging. To facilitate this, you can create and utilize both personal email templates and those that can be shared with groups you are a part of, allowing other members to access them.
+Templates provide a way to create commonly used email content that can be reused. Templates can be personal or shared with members of one of your groups to ensure consistent messaging. 
+
+![Template button](/_books/esp-user-guide/images/email-composer-template-button.png)
+
+:::tip
+From this menu, the template with the check (√) next to it is loaded automatically each time the email composer is opened. To start with a blank email composer, click next to the the `No Template` option.
+:::
 
 ### Managing templates
 Click on the `Template` option, then select `Manage Templates`.
@@ -29,7 +36,7 @@ Click on the `Template` option, then select `Manage Templates`.
 1. Click `Create` to make the template available.
 
 ## Snippets
-Like Templates, Snippets allow you to pre-define content to inject into the email composer
+Snippets allow you to inject pre-define content into the email composer while you write an email. 
 
 ### Creating an Email Snippet
 Click on the Snippets option and choose Manage Snippets, and Add New.
