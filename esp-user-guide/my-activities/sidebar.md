@@ -1,41 +1,54 @@
-# Activity Sidebar
+# Activity sidebar
 
-Access your activities from any view on Hornbill by using the collapsible `My Activities` sidebar. The sidebar is located on the right side of the browser window. The activities applet is available no matter where you are in Hornbill. 
+The **Activity sidebar** helps you manage your tasks and appointments from any screen in Hornbill. This collapsible panel stays available as you move through different areas of the platform, ensuring you never miss a deadline. 
 
 ![Activities Sidebar](/_books/esp-user-guide/images/activities-sidebar.png)
 
-## Activities
-All Pending activities will be displayed in the collapsible sidebar. The tasks icon will display an orange counter that shows the number of notifications relating to new activities.
+## View your activities
 
-Activities will be grouped, and the groups can be expanded and collapsed by clicking on the title of each section.
+You can find the **Activity sidebar** on the right side of your browser window.
+
+* **Notifications**: The **Tasks** icon displays an orange counter showing the number of new activities requiring your attention.
+* **Groups**: Hornbill organizes activities into groups. You can click a group title to expand or collapse that section.
 
 :::tip
 ![Activities I own](/_books/esp-user-guide/images/activities-i-own-icon.png) This icon will show or hide activities that you own.  This can be useful for seeing activities that you own, but they are assigned to someone else to complete.
 :::
 
-### New
-New Activities will be displayed based on their assignment type:
-* Activities assigned directly to you as a user.
-* Activities assigned to you, based on your membership in the group which the activity has been assigned to. These activities will be grouped under each group name.
-* Activities assigned to you, based on you having a specific role, and the activity having been assigned to that role. These activities will be grouped under each role name.
+## Activity categories
 
-### Filtered
-My Default activities will be grouped under the following headings:
+The sidebar categorizes activities to help you prioritize your work.
 
-* **Overdue**. The due date is in in the past.
-* **Today**. The due date is today.
-* **Tomorrow**. The due date is tomorrow.
-* **Later**. A due date is set, but it is more than 2 days in the future.
-* **Someday**. No due date has been set.
+### New activities
 
-### Managing Activities
-Hovering over each activity will enable the following options.
+The **New** section displays activities based on how they are assigned:
 
-* Click on the activity title to view more information relating to the activity and have an option to edit or complete.
-* Click on the Tick Box for a quick complete option for the activity.
-* Click on the Cross icon to dismiss the activity.
-* Click on the entity hyperlink to be taken to the entity against which the activity has been created (if present), this could be a request, document or ci from installed line of business applications.
+* **Directly to you**: Tasks assigned specifically to your user account.
+* **To your groups**: Tasks assigned to a team or department you belong to. These appear under the specific group name.
+* **To your roles**: Tasks assigned to a specific job role you hold. These appear under the specific role name.
 
-### Raising New Activities
-* Use the Calendar icon to create a new appointment.
-* Use the notepad icon to create a new activity.
+### Filtered activities
+
+Hornbill automatically sorts your current activities into the following time-based groups:
+
+* **Overdue**: The due date passed.
+* **Today**: The activity is due before the end of the current day.
+* **Tomorrow**: The activity is due the following day.
+* **Later**: The activity has a due date more than two days in the future.
+* **Someday**: The activity does not have a set due date.
+
+### Manage your activities
+
+Each activity will enable the following options.
+
+* **View or edit**: Select the activity title to open a window with full details. From here, you can modify the task or mark it as complete.
+* **Quick complete**: Select the **Tick Box** to complete the activity instantly without opening the details.
+* **Delete**: Select the **Delete** icon to permanently delete the activity.
+* **View related items**: Click the entity hyperlink (such as a Request number or Document name) to open the specific record associated with that task. This might include a help desk request, a file, or a Configuration Item (CI).
+
+## Create new activities
+
+You can quickly add items to your schedule using the icons at the top of the sidebar.
+
+* **Create an appointment**: Select the **Calendar** icon to schedule a new meeting or timed event.
+* **Create a task**: Select the **Notepad** icon to create a new activity for yourself or others.
