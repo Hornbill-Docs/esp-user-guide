@@ -1,36 +1,80 @@
 # Locations
-View information about your organization's locations. The location view can be accessed from the Home Menu.
 
-## Before you begin
-The following roles provide different levels of access to the locations feature.
-* **User Role** Users with this role will be able to see the locations list, details, nearby, and users tabs for a location.
-* **Sites Manager**. Users with this role will be able to add and edit location details
+Use the **Locations** feature to view and manage your organization's physical locations. You can access this view from the **Home Menu**.
+
+![Home Menu showing the Locations option highlighted](/_books/esp-user-guide/images/home-menu-locations.png)
+
+## Permissions
+
+The following roles provide different levels of access to location features:
+
+* **User Role**: Users with this role can view the location list, details, nearby locations, and the users tab.
+* **Sites Manager**: Users with this role can add and edit location details.
 
 ## Location list
-All locations will be listed and available to view by name, or using the location filter option
+
+The **Locations** list displays all registered locations. You can find specific locations by using the location filter. Once you select a location from the list, you can view and edit its details.
 
 ## Details
-* **Contact Details**. View and update the attributes of a location.
-* **Custom Fields**. View and update custom field values of a location. A user with the Form Designer Role, will be able to add custom fields to the location record.
-Recording a location's latitude and longitude values will enable the Nearby tab to appear on the Location record - it will show its location, and other locations that are nearby.
-* **Members**. Add key users who are associated with the location. Only Users of type User can be added as a member of a location.
+
+The **Details** tab contains specific information about a location, including the following sections:
+
+### Basic details
+
+View and update the primary attributes of a location.
+
+* ID
+* Name
+* Location Code
+* Type
+* Company
+* Building
+* Floor
+* Address
+* City
+* State
+* Post Code
+* Country
+* Phone
+
+### Extra details
+
+View and update custom field values. A user with the [Form Designer Role](/esp-config/organizational-data/roles#system-roles) can add custom fields to the location record.
+
+This section include the Latitude and Longitude values that are required for the **[Nearby](/esp-user-guide/locations#nearby)** tab to be displayed.
+
+![Location coordinates displayed in the Extra details section](/_books/esp-user-guide/images/location-coordinates.png)
+
+### Members
+
+Add key users who are associated with the location. You can only add users with the **User** type as members. Common member roles include:
+
 * Engineer
 * Location Manager
 * Area Manager
 * Regional Manager
 
-    :::tip
-    Look up member details in workflows to assign activities or notify the key members.
-    :::
+:::tip
+You can look up member details in workflows to assign activities or notify key members automatically.
+:::
 
-* **Activities**. Activities can be created and associated to a location.
-* **Activity Stream**. In the right-hand sidebar, is an activity stream, which can be used to discuss and collaborate on all content relating to the location, and users can opt to follow location activity streams to view updates on their newsfeed.
+### Activities
+
+You can create and associate specific activities with a location to track tasks and progress.
+
+### Activity stream
+
+The **Activity Stream** is located in the right sidebar. Use this stream to discuss and collaborate on content related to the location. You can follow a location's activity stream to see updates in your **News Feed**.
 
 ## Nearby
-If a location has a latitude and longitude value defined in the custom field section of a location, the nearby tab on the location view will show.
-* The interactive map will show other locations that are nearby; the map can be scaled to suit.
-* A list of nearby locations will be displayed
+
+If a location has defined latitude and longitude values in the **[Extra Details](/esp-user-guide/locations#extra-details)** section, the **Nearby** tab becomes available.
+
+* **Interactive map**: This map displays other nearby locations. You can scale the map to adjust the view.
+* **Nearby list**: A list of nearby locations appears next to the map for quick reference.
+
+![Nearby tab showing an interactive map and a list of nearby locations](/_books/esp-user-guide/images/locations-nearby.png)
 
 ## Users
-The users tab will display a list of the users who have the location defined in their user profile. You can update this list from the Platform Configuration on the location, user views, or via your user import utilities.
 
+The **Users** tab displays a list of users who have this specific location defined in their user profile. You can update this list through **Platform Configuration** in the [Locations](/esp-config/organizational-data/locations) view, [Users](/esp-config/organizational-data/user-accounts/about-user-accounts) views, or by using user import utilities.
