@@ -1,60 +1,87 @@
-# Email Composer
-Create, reply to, or forward email messages. Use the email editor in combination with email templates and snippets to format the content for the outgoing email.
+# Email composer
+
+Use the email composer to create, reply to, or forward email messages. You can use the email editor along with templates and snippets to format your outgoing content.
 
 ![Email composer](/_books/esp-user-guide/images/email-composer.png)
 
-#### Options
-* **From**. If you only have access to one shared mailbox, the "From" address will be fixed. However, if you have access to more than one, you can choose which mailbox to send the email from.
-* **To**. Use the search Add recipient field to add one or more recipents.  As you type, existing co-workers and contacts that match the typed text will display for easy selection.
-* **Cc & Bcc**. Use these buttons to display additional fields for carbon copying (Cc) or blind carbon copying (Bcc) other contacts and co-workers.
-* **Attach Files**. Use this option to drag and drop attachments or explore to add them to the email.
-* **Template**. Use this option to select a predefined template
-* **Priority**. Use the exclamation mark to set the email's priority as High, Medium, or Low.
-* **Subject**. Specify the text that will appear in the subject line of the outgoing email.
-* **Body**. Use the toolbar options to format the content of the email, add images and links, and preview how the email will appear before sending it.
+## Composer options
 
-Use the `Send` option to send the email, or select `Discard` to exit the composer without sending the email.
+- **From**: If you have access to one shared mailbox, this address is fixed. If you have access to multiple mailboxes, select the preferred mailbox from the list.
+- **To**: Type in the **Add recipient** field to search for recipients. The system displays matching co-workers and contacts as you type.
+- **Cc and Bcc**: Select these buttons to show additional fields for carbon copying (Cc) or blind carbon copying (Bcc) contacts and co-workers.
+- **Attach Files**: Drag and drop files into the composer or select the option to browse your device for attachments.
+- **Template**: Select this option to use a predefined email template.
+- **Priority**: Select the exclamation mark icon to set the email priority to **High**, **Medium**, or **Low**.
+- **Subject**: Enter the text you want to appear in the subject line.
+- **Body**: Use the toolbar to format text, add images, or insert links. You can also preview the email before you send it.
 
-## Templates
-Templates provide a way to create commonly used email content that can be reused. Templates can be personal or shared with members of one of your groups to ensure consistent messaging. 
+To send your message, select **Send**. To exit without saving, select **Discard**.
+
+## Use templates
+
+Templates allow you to reuse common email content. You can create personal templates or share them with specific groups to maintain consistent messaging.
 
 ![Template button](/_books/esp-user-guide/images/email-composer-template-button.png)
 
 :::tip
-From this menu, the template with the check (√) next to it is loaded automatically each time the email composer is opened. To start with a blank email composer, click next to the the `No Template` option.
+In the template menu, a checkmark (√) indicates which template loads automatically when you open the composer. To start with a blank email, select the area next to the **No Template** option.
 :::
 
-### Managing templates
-Click on the `Template` option, then select `Manage Templates`.
+### Create a template
 
-#### Add a new template
-1. Give the template a name that will easily identfy the template when being selected from a list.
-1. From the `Add To` option select `Personal Templates` if the template will only be available to you. To share the template, select `Groups` and choose one of your groups that the template will be available to.
-1. Add the subject text.
-1. Use the email editor to construct the body of the email.
-1. Use the `Insert Params` option to add the variables of the user who the email will be sent from. If a template is shared with a group, and a member of the group uses the template, then the first name, surname, job title etc variables will resolve to their details.
-1. Click `Create` to make the template available.
+Follow these steps to build a new template for yourself or your team.
 
-## Snippets
-Snippets allow you to inject pre-define content into the email composer while you write an email. 
+**Before you begin** Ensure you are in the email composer and have decided whether the template is for personal use or for a specific group.
 
-### Creating an Email Snippet
-Click on the Snippets option and choose Manage Snippets, and Add New.
+**Steps**
 
-1. Give the Snippet a name.
-1. From the `Add To` option choose if the Snippet will only be available to you by choosing `Personal Snippets`. To share the snippet, select `Groups` and choose one of your groups which the snippet will be available to.
-1. Use the editor to add the content for the Snippet.
-1. Use the `Insert Params` option to add the variables of the user who the email will be sent from. If a Snippet is shared with a group, and a member of the group uses the Snippet, then the first name, surname, job title etc variables will resolve to their details.
-1. Click `Create` to make the Snippet available
+1. Select **Template** and then select **Manage Templates**.
+2. Enter a name for the template that makes it easy to identify in a list.
+3. Select the **Add To** option. Choose **Personal Templates** for private use or select **Groups** to share it with a specific team.
+4. Enter the text for the **Subject** line.
+5. Use the email editor to write the content in the **Body** section.
+6. Select **Insert Params** to add variables for the sender. These variables (such as first name or job title) automatically update based on the details of the person sending the email.
+7. Select **Create**.
 
-### Using Snippets
-Choose an email snippet from the list of available snippets. This will automatically insert the snippet's content into the email composer at the location of the current insertion point, integrating it with any existing content.
+**Expected result** The new template appears in your template list and is ready for use.
 
-### Manage Snippets
-Click on "Snippet" and then "Manage Snippets" to view a list of the snippets you have created. You can open an existing snippet to edit, save changes, or delete it if it is no longer needed.
+## Use snippets
 
-## Plug-ins
+Snippets are short pieces of predefined content that you can insert into an email while you are writing.
+
+### Create a snippet
+
+**Before you begin** Identify the text or content you frequently reuse in emails.
+
+![Manage snippets](/_books/esp-user-guide/images/email-composer-manage-snippets.png)
+
+**Steps**
+
+1. Select **Snippets**, select **Manage Snippets**, and then select **Add New**.
+2. Enter a name for the snippet.
+3. Select the **Add To** option. Choose **Personal Snippets** for private use or select **Groups** to share it with a team.
+4. Use the editor to enter the content for the snippet.
+5. Select **Insert Params** to add sender variables. If a group member uses the snippet, variables like name and job title will resolve to their specific details.
+6. Select **Create**.
+
+**Expected result** The snippet is saved and available in the **Snippets** menu.
+
+### Insert a snippet into an email
+
+To use a snippet, select it from the list of available snippets. The system inserts the content at your current cursor position and integrates it with your existing text.
+
+### Manage existing snippets
+
+To view your snippets, select **Snippet** and then **Manage Snippets**. From this list, you can select an existing snippet to edit its content, save changes, or delete it.
+
+## Use plug-ins
+
 ### Timesheet Manager
-If you have the Timesheet Manager configured, you will see a clock that automatically records the time spent composing the email. Once the email is sent, the time will be recorded in the Timesheet Manager App.
 
-Manually set the time spent by pausing the timer and entering the time. By default, a category for the time spent may be set. However, if you wish to change this, select a category and sub-category from the drop-down list.
+If you have the Timesheet Manager configured, a clock icon appears in the composer. This tool automatically records the time you spend writing the email.
+
+![Timesheet Manager timer](/_books/esp-user-guide/images/email-composer-timesheet-manager.png)
+
+- **Automatic recording**: The system records the time in the Timesheet Manager app once you send the email.
+- **Manual adjustments**: You can pause the timer and enter a specific time manually.
+- **Categories**: The system sets a default category for the time spent. To change this, select a different category and sub-category from the dropdown list.
