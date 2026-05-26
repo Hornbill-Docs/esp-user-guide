@@ -13,22 +13,22 @@ Activities can be viewed and completed from different locations.
 ## Activity types
 Activities can come in various forms but are summarized as follows:
 
-* **Manually created activities**. Each user can create their own activites or assign activites to other users.
-* **Workflow Human Tasks**. Users can be assigned an activity as part of an automated workflow. These are known as [Human Tasks](/esp-config/automation/human-task) because they required human interaction rather than being an automated workflow task.
+* **Manually created activities**. Each user can create their own activities or assign activities to other users.
+* **Workflow Human Tasks**. Users can be assigned an activity as part of an automated workflow. These are known as [Human Tasks](/esp-config/automation/human-task) because they require human interaction rather than being an automated workflow task.
 * **Authorizations**. [Authorizations](/esp-config/automation/authorization) can be assigned to users as part of an automated workflow. Authorizations can't be manually created.
 
 ## Activity attributes
-* **Title**. The activity name which is prominantely displayed in the different views to indentify the activity.
+* **Title**. The activity name which is prominently displayed in the different views to identify the activity.
 * **Description**. Details relating to what need to be completed in the activity.
 * **Personal**. Option to mark the activity as private. Users that have the right to view your activities will not see these in their list.
 * **Schedule**. Option to set a schedule for the reoccurrence for the activity.
 * **Category**. Select the Category for the Activity, and in turn it's defined outcomes - you can create your own Activity Categories and custom outcomes from the Manage Activity Categories link in the related articles section.
 * **Priority**. Set a priority for the activity.
 * **Assign To**. Select if the activity should be assigned to a named user, role or group and select the relevant user, role or group accordingly:
-    * **Me**. Assign the activity to yourself. Optionally choose which of the groups you are a member of, you would also like this activity assigned too.
-    * **User**. Assign the activity to a user. Optionally choose which of the groups the user is a member of, you would also like this activity assigned too.
+    * **Me**. Assign the activity to yourself. Optionally choose which of the groups you are a member of, you would also like this activity assigned to.
+    * **User**. Assign the activity to a user. Optionally choose which of the groups the user is a member of, you would also like this activity assigned to.
     * **Group**. Assign the activity to a group. Optionally choose a user in the group, to assign the activity to.
-    * **Role**. Choose the role to assign the activity too, all users with that role will be assigned the activity.
+    * **Role**. Choose the role to assign the activity to, all users with that role will be assigned the activity.
 * **Starts On**. Select when the activity is required to start - select a date and time or choose the All Day option.
 * **Due On**. Select when the activity should be completed by. With a Due Date and time selected, an option to set reminders for the assignee and owner will be presented.
 * **Add Checklist**. Create a checklist and checklist items which need to be completed as part of the activity.

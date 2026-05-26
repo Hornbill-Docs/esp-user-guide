@@ -10,7 +10,7 @@ If you deliver a service to company external to your own, you will store them in
 ### Searching companies
 * **Quick Filter**. Use to easily find a specific company record by searching against their name.
 * **Advanced Filter** Select the Funnel icon to expose additional search filters, including industry, city, and country.
-* **Archived**. Use the File Box icon to filter the list to company that have been archived.
+* **Archived**. Use the File Box icon to filter the list to companies that have been archived.
 * **Export**. Use the Download Arrow icon to export the filtered list of companies.
 * **Contacts**. View Contacts for the listed companies.
 * **Global Search**. With the filter switched to companies you can search for companies by name, and see matching results displayed in the company list.
@@ -24,7 +24,7 @@ Complete the mandatory fields, and any optional fields. Select Create to add the
 ### Manage companies
 From a company record the following options are available to you.
 
-* **Archive**. If an company is no longer needed, mark it as Archived. This will remove them from general organization searches, but will still be accessible from the company list and archived companies option.
+* **Archive**. If a company is no longer needed, mark it as Archived. This will remove them from general organization searches, but will still be accessible from the company list and archived companies option.
 * **Contacts**. View any existing company's contacts and add new ones.
 * **Logo**. Upload a company's logo.
 * **Industry**. The industry field uses Simple List data. The list should be called Industry in the Collaboration app.
@@ -32,7 +32,7 @@ From a company record the following options are available to you.
 
 ## Administration
 
-* **Form Designer**.  Users with the Form Designer role will be able to add custom fields, hide existing fields, edit their properties, and edit which sections of the company record, fields are displayed in. This can achieved by dragging and dropping the fields into the required sections. With the Form Designer role, users will see a Design option to go into edit mode.
+* **Form Designer**.  Users with the Form Designer role will be able to add custom fields, hide existing fields, edit their properties, and edit which sections of the company record, fields are displayed in. This can be achieved by dragging and dropping the fields into the required sections. With the Form Designer role, users will see a Design option to go into edit mode.
 
 * **Custom Buttons**. Create custom buttons on the company record. Typical use of custom buttons could be to link to a document (held in Document Manager, or other externally accessible cloud solution).
 

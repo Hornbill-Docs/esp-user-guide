@@ -44,7 +44,7 @@ In the Shared Mailbox view, click the arrow icon to collapse and hide the folder
 View, sort, and action emails in each folder.
 
 ## Email viewer
-View emails in a a full window.
+View emails in a full window.
 
 ## Compose
 Create, reply, or forward emails.

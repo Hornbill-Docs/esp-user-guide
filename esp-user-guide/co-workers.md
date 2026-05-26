@@ -24,7 +24,7 @@ Select a [login status](/esp-user-guide/availability-status#login-status) to sho
 Select an [availability status](/esp-user-guide/availability-status) to show only co-workers who match that status.
 
 #### Profile image
-Click on a co-workers image to see a pop up with the following options:
+Click on a co-worker's image to see a pop up with the following options:
 * Follow a co-worker.
 * Award a co-worker.
 * Start a conversation.
@@ -36,7 +36,7 @@ Profile images that haven't been updated with a photo are displayed as a colored
 #### Profile name and contact details
 * Click on the co-worker's name to be taken to their profile.
 * Click on any displayed email address to open the email composer to send them an email.
-* Click on a displayed phone number to initiate a call the co-worker via installed browser tools.
+* Click on a displayed phone number to initiate a call to the co-worker via installed browser tools.
 
 ## Global Search
 You can also use the Global Search bar at the top of Hornbill Collaboration to search for Co-workers.

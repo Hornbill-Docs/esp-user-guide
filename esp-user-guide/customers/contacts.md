@@ -1,5 +1,5 @@
 # Contacts
-Any individual who belongs to an external company who you wish to interact with during the delivery of a service will be stored in Hornbill as a contact record. Contact records would typically be associated with an company record. Contacts can be configured to use the Customer Portal for profile management and use of application features designed to allow for communication between you and your contacts.
+Any individual who belongs to an external company who you wish to interact with during the delivery of a service will be stored in Hornbill as a contact record. Contact records would typically be associated with a company record. Contacts can be configured to use the Customer Portal for profile management and use of application features designed to allow for communication between you and your contacts.
 
 To manage contact records, a user must possess one of the following security roles:
 
@@ -14,7 +14,7 @@ To manage contact records, a user must possess one of the following security rol
 * See which contacts have a portal account enabled.
 
 ### Searching Contacts
-* **Quick Filter**. Use the filter to easily find a specific contact record, searching against their first name, surname, email address or the company they are associated too.
+* **Quick Filter**. Use the filter to easily find a specific contact record, searching against their first name, surname, email address or the company they are associated with.
 * **Advanced Filter**. Select the Funnel icon to expose additional search filters, including Job Title, Email, and Phone number.
 * **Archived**. Use the File Box icon to filter the list of contacts to those which have been marked as archived.
 * **Export**. Use the Download Arrow icon to export the filtered list of contacts
@@ -39,7 +39,7 @@ Contacts can be configured to use the Customer Portal for profile management and
 * If Service Manager has also been installed, you can configure what rights the contact has when viewing the company's requests on the customer portal, via the company record > Requests section > Portal Access option.
 
 ## Administration
-* Users with the Form Designer role will be able to add custom fields, hide existing fields, edit their properties, and edit which sections of the contact record, fields are displayed in. This can achieved by dragging and dropping the fields into the required sections. With the Form Designer role, users will see a design option to go into edit mode.
+* Users with the Form Designer role will be able to add custom fields, hide existing fields, edit their properties, and edit which sections of the contact record, fields are displayed in. This can be achieved by dragging and dropping the fields into the required sections. With the Form Designer role, users will see a design option to go into edit mode.
 * View and Manage contact portal access through Configuration > Platform Configuration > Customer Portal.
 
 <!--

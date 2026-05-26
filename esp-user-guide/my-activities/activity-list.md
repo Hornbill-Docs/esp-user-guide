@@ -11,7 +11,7 @@ Use the My Activities Board Properties.png icon to choose which Activity attribu
 1. (Optional) To remove a column from the display, click the down arrow in the column's header and then click **Hide Column**.
 
 **To change the sort order of activities:**
-1. Find the column on which you want to sort by, then click its down arrow.
+1. Find the column you want to sort by, then click its down arrow.
 1. Click **Sort Ascending** or **Sort Descending** to order the activities in the list view in either ascending or descending order.
 
 <!--https://wiki.hornbill.com/index.php?title=My_Activities_List_View -->

@@ -43,7 +43,7 @@ To open a bookmark link, use the dropdown menu to navigate to the required bookm
 Use the quick-search filter to find a specific bookmark based on its title or description.
 
 ### Edit
-When a bookmark is added, the title and description are populated using information from the page or item that has be been bookmarked.  Sometimes, too much or unwanted text is added.  The Edit option can be used to clean up or personalize the information in these fields.
+When a bookmark is added, the title and description are populated using information from the page or item that has been bookmarked.  Sometimes, too much or unwanted text is added.  The Edit option can be used to clean up or personalize the information in these fields.
 
 Hover over the bookmark you wish to edit and click the cog icon to:
 * Edit the category under which the bookmark should be grouped.

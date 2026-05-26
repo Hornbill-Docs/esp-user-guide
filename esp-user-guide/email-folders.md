@@ -1,6 +1,6 @@
 # Email folders
 
-By Default the following email folders are available within each mailbox:
+By default the following email folders are available within each mailbox:
 
 * Inbox
 * Sent Items

@@ -28,7 +28,7 @@ Clicking the Empty Box icon on one or more emails in the list exposes a multi-se
 
 * **Move Emails to Another Folder.** Click the folder icon, then from the dropdown choose which folder to move the emails to.
 * **Read.** Click the eye icon to mark the emails as read.
-* **Unread.**. Click the eye-with-line icon to the mark the emails as unread.
+* **Unread.**. Click the eye-with-line icon to mark the emails as unread.
 * **Delete.** Click the trash can icon to delete the emails and move them to the Deleted folder.
 
 ## Email preview and actions
@@ -51,11 +51,11 @@ Showing:
 An email that failed to be delivered is shown as a red triangle and count of unread messages in sent items. Note that this will show on all previously failed deliveries, not just new items.
 
 * If an email is successfully sent to all recipients it is moved into the Sent Items folder and Marked as Read.
-* If an email is not sent to any of the specified recipients Hornbill will attempt to retry (this happens upto 9 times with retry period getting longer each time, Starts at 1 minute , 5 minutes, 30 minutes, 60 minutes, 120 minutes, 240 minutes, 480 minutes, 960 minutes, 1440 minutes). The email at this point will remain in the outbox.
+* If an email is not sent to any of the specified recipients Hornbill will attempt to retry (this happens up to 9 times with retry period getting longer each time, Starts at 1 minute , 5 minutes, 30 minutes, 60 minutes, 120 minutes, 240 minutes, 480 minutes, 960 minutes, 1440 minutes). The email at this point will remain in the outbox.
 * If email is still not sent to any of the specified recipients after all 9 tries it is moved into the Sent Items, marked as Failed and Unread. The counter against the Sent Items is increased by 1 and the red triangle shown.
 * The failed message can be found by going into the Sent Items, clicking the order by and choosing Status. Then the arrow to get all unread at the top.
 * The failed delivery recipient is shown as a red mail icon (If your email had multiple recipients several may be green with 1 or more red.)
 * If you click on the Red Mail Icon and choose Delivery Status you will be able to see the full audit trail of the attempts to deliver the message.
-* There may be many reasons why an email has failed to deliver (From misconfiguration to non existent sender.) However once you have reviewed the failed email and decided the root cause you can highlight the email and choose Mark As Read, removing the item from the count of failures.
+* There may be many reasons why an email has failed to deliver (From misconfiguration to non-existent sender.) However once you have reviewed the failed email and decided the root cause you can highlight the email and choose Mark As Read, removing the item from the count of failures.
 
 <!-- https://wiki.hornbill.com/index.php?title=Emails_List -->

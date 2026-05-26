@@ -41,7 +41,7 @@ View and update the primary attributes of a location.
 
 View and update custom field values. A user with the [Form Designer Role](/esp-config/organizational-data/roles#system-roles) can add custom fields to the location record.
 
-This section include the Latitude and Longitude values that are required for the **[Nearby](/esp-user-guide/locations#nearby)** tab to be displayed.
+This section includes the Latitude and Longitude values that are required for the **[Nearby](/esp-user-guide/locations#nearby)** tab to be displayed.
 
 ![Location coordinates displayed in the Extra details section](/_books/esp-user-guide/images/location-coordinates.png)
 
