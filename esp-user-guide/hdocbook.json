@@ -4,7 +4,7 @@
   "description": "Documentation for the user features that are available with the Hornbill Platform",
   "publicSource": "https://github.com/Hornbill-Docs/esp-user-guide",
   "productFamily": "esp",
-  "version": "1.4.11",
+  "version": "1.4.12",
   "audience": [
     "public"
   ],
@@ -69,7 +69,6 @@
               },
               {
                 "text": "My Preferences",
-                "draft": true,
                 "link": "esp-user-guide/my-profile/my-preferences"
               }
             ]
