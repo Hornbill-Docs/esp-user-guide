@@ -4,7 +4,7 @@ Hornbill is a secure cloud solution that requires users to log in. Users are req
 ## Where to log in
 An organization, company, or group of companies will have a unique name or ID that makes up part of a Hornbill URL.
 
-`https://live.hornbill.com/name`
+`https://login.hornbill.com/name`
 
 The Hornbill name or full URL should be communicated to each user who requires access. 
 
