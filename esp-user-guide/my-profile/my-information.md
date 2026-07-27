@@ -53,4 +53,3 @@ Administrators with the Form Designer role will see a Design option which lets t
 * Mark fields as not being editable.
 * Change field labels, make field values mandatory, choose whether fields should show if blank.
 * Re-arrange the order fields appear in by dragging and dropping them into the desired order (including moving fields between *About* sections).
-
