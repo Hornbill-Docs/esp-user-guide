@@ -141,6 +141,10 @@
             "link": "esp-user-guide/customers/companies"
           }
         ]
+      },
+      {
+        "text": "HAi Agent Assistant",
+        "link": "esp-user-guide/hai/hai-agent-assistant"
       }
     ]
   },
